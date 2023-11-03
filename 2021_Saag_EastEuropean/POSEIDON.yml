@@ -1,0 +1,23 @@
+poseidonVersion: 2.7.1
+title: 2021_Saag_EastEuropean
+description: Empty package template. Please add a description
+contributor:
+- name: Josiah Carberry
+  email: carberry@brown.edu
+  orcid: 0000-0002-1825-0097
+packageVersion: 0.1.1
+lastModified: 2023-09-13
+genotypeData:
+  format: PLINK
+  genoFile: 2021_Saag_EastEuropean.bed
+  genoFileChkSum: 94f00a3ef870acf1a6107f56b2c4f288
+  snpFile: 2021_Saag_EastEuropean.bim
+  snpFileChkSum: 433fa85a23f3123bade02348e4628b75
+  indFile: 2021_Saag_EastEuropean.fam
+  indFileChkSum: c8eab0dd9e3bf11c16dcd5110d86ae2c
+  snpSet: 1240K
+jannoFile: 2021_Saag_EastEuropean.janno
+jannoFileChkSum: d704f8febdd0fa3936ceeefb3457fbf0
+bibFile: 2021_Saag_EastEuropean.bib
+bibFileChkSum: 9edc4a757f785a8ecb59c54d16c5690a
+changelogFile: CHANGELOG.md
