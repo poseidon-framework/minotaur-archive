@@ -1,0 +1,24 @@
+poseidonVersion: 2.7.1
+title: 2023_OlaldeCarrion_Roman
+description: Empty package template. Please add a description
+contributor:
+- name: Josiah Carberry
+  email: carberry@brown.edu
+  orcid: 0000-0002-1825-0097
+packageVersion: 0.1.1
+lastModified: 2024-03-12
+genotypeData:
+  format: PLINK
+  genoFile: 2023_OlaldeCarrion_Roman.bed
+  genoFileChkSum: 6273cc7ee5c70f3c28bc04d2e6c33e1b
+  snpFile: 2023_OlaldeCarrion_Roman.bim
+  snpFileChkSum: 433fa85a23f3123bade02348e4628b75
+  indFile: 2023_OlaldeCarrion_Roman.fam
+  indFileChkSum: 4f10cbb89204cb84ee14eed64e2682bf
+  snpSet: 1240K
+jannoFile: 2023_OlaldeCarrion_Roman.janno
+jannoFileChkSum: 9cb84468976969198e696e9a17268dee
+bibFile: 2023_OlaldeCarrion_Roman.bib
+bibFileChkSum: 9edc4a757f785a8ecb59c54d16c5690a
+readmeFile: README.md
+changelogFile: CHANGELOG.md
