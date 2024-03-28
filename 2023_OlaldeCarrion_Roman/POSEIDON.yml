@@ -6,7 +6,7 @@ contributor:
   email: carberry@brown.edu
   orcid: 0000-0002-1825-0097
 packageVersion: 0.1.1
-lastModified: 2024-03-12
+lastModified: 2024-03-28
 genotypeData:
   format: PLINK
   genoFile: 2023_OlaldeCarrion_Roman.bed
@@ -17,7 +17,9 @@ genotypeData:
   indFileChkSum: 4f10cbb89204cb84ee14eed64e2682bf
   snpSet: 1240K
 jannoFile: 2023_OlaldeCarrion_Roman.janno
-jannoFileChkSum: 9cb84468976969198e696e9a17268dee
+jannoFileChkSum: ad8f6330e4b8299317732329e3e28f9b
+sequencingSourceFile: 2023_OlaldeCarrion_Roman.ssf
+sequencingSourceFileChkSum: 924f9cd39fc87532b006dbc906e846cd
 bibFile: 2023_OlaldeCarrion_Roman.bib
 bibFileChkSum: 9edc4a757f785a8ecb59c54d16c5690a
 readmeFile: README.md
