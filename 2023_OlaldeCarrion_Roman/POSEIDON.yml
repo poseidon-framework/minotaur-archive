@@ -5,7 +5,7 @@ contributor:
 - name: Josiah Carberry
   email: carberry@brown.edu
   orcid: 0000-0002-1825-0097
-packageVersion: 0.1.1
+packageVersion: 0.1.2
 lastModified: 2024-03-28
 genotypeData:
   format: PLINK
@@ -17,10 +17,10 @@ genotypeData:
   indFileChkSum: 4f10cbb89204cb84ee14eed64e2682bf
   snpSet: 1240K
 jannoFile: 2023_OlaldeCarrion_Roman.janno
-jannoFileChkSum: efe1caaba66ffabffb950c13f0baf40a
+jannoFileChkSum: eb3392d7891100bf5add98fb22487e21
 sequencingSourceFile: 2023_OlaldeCarrion_Roman.ssf
 sequencingSourceFileChkSum: 924f9cd39fc87532b006dbc906e846cd
 bibFile: 2023_OlaldeCarrion_Roman.bib
-bibFileChkSum: 9edc4a757f785a8ecb59c54d16c5690a
+bibFileChkSum: 01dab3e98f868affc5e46a492aa6e30d
 readmeFile: README.md
 changelogFile: CHANGELOG.md

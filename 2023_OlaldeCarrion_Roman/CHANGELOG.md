@@ -1,1 +1,2 @@
+- V 0.1.2: Add bibtex info and fill Publication column
 - V 0.1.1: Automatic update of janno file from Minotaur processing.
