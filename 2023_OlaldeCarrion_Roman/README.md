@@ -1,5 +1,5 @@
 # 2023_OlaldeCarrion_Roman
-This package was created on 2024-12-28 and was processed using the following versions:
+This package was created on 2024-03-28 and was processed using the following versions:
  - nf-core/eager version:  2.4.6
  - Minotaur config version: 0.2.1dev
  - CaptureType profile: 1240K
