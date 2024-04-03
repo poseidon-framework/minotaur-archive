@@ -6,7 +6,7 @@ contributor:
   email: carberry@brown.edu
   orcid: 0000-0002-1825-0097
 packageVersion: 0.1.1
-lastModified: 2023-09-13
+lastModified: 2024-04-03
 genotypeData:
   format: PLINK
   genoFile: 2021_Saag_EastEuropean.bed
@@ -17,7 +17,10 @@ genotypeData:
   indFileChkSum: c8eab0dd9e3bf11c16dcd5110d86ae2c
   snpSet: 1240K
 jannoFile: 2021_Saag_EastEuropean.janno
-jannoFileChkSum: d704f8febdd0fa3936ceeefb3457fbf0
+jannoFileChkSum: a12094c301f9c7d1a4e168daf33050ec
+sequencingSourceFile: 2021_Saag_EastEuropean.ssf
+sequencingSourceFileChkSum: ede192f2a129e62c78ea8f48c17b50c8
 bibFile: 2021_Saag_EastEuropean.bib
 bibFileChkSum: 9edc4a757f785a8ecb59c54d16c5690a
+readmeFile: README.md
 changelogFile: CHANGELOG.md
