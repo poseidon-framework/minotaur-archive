@@ -6,5 +6,5 @@ This package was created on 2024-04-03 and was processed using the following ver
  - 1240K.config: 0.2.0dev
  - Config template version: 0.2.0dev
  - Package config version: 0.2.0dev
- - Minotaur-packager version: 0.2.2dev
- - populate_janno.py version: 0.3.1dev
+ - Minotaur-packager version: 0.3.0dev
+ - populate_janno.py version: 0.3.2dev
