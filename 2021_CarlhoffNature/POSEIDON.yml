@@ -6,18 +6,21 @@ contributor:
   email: carberry@brown.edu
   orcid: 0000-0002-1825-0097
 packageVersion: 0.1.1
-lastModified: 2023-09-13
+lastModified: 2024-04-03
 genotypeData:
   format: PLINK
   genoFile: 2021_CarlhoffNature.bed
-  genoFileChkSum: 240f4f944f13093abeeec6cb5096b717
+  genoFileChkSum: 079d15ad25a6db3f7e3d1da9e105abc3
   snpFile: 2021_CarlhoffNature.bim
   snpFileChkSum: 433fa85a23f3123bade02348e4628b75
   indFile: 2021_CarlhoffNature.fam
-  indFileChkSum: 03f67f28a9d7278322b8bdb5b8108842
+  indFileChkSum: 25f3c92e8bb97f3ef155488b3e22e479
   snpSet: 1240K
 jannoFile: 2021_CarlhoffNature.janno
-jannoFileChkSum: 8a66d20c37652d196022483b340003aa
+jannoFileChkSum: 206ca32937eade1c26fe90c7f5f51d7e
+sequencingSourceFile: 2021_CarlhoffNature.ssf
+sequencingSourceFileChkSum: ac4cec11100b5ab343548313c86c68b2
 bibFile: 2021_CarlhoffNature.bib
 bibFileChkSum: 9edc4a757f785a8ecb59c54d16c5690a
+readmeFile: README.md
 changelogFile: CHANGELOG.md
