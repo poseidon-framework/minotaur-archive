@@ -1,6 +1,0 @@
-nf-core/eager version:  2.4.6
-Minotaur config version: 0.2.0dev
-CaptureType profile: 1240K 0.2.0dev
-Config template version: 0.2.0dev
-Package config version: 0.2.0dev
-Minotaur-packager version: 0.2.1dev
