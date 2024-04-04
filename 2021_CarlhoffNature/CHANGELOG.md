@@ -1,1 +1,2 @@
+- V 0.1.2: Add bibtex. Update Genetic_Sex. Add identical individual to Relation_* columns.
 - V 0.1.1: Automatic update of janno file from Minotaur processing.
