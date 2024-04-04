@@ -1,12 +1,12 @@
 poseidonVersion: 2.7.1
 title: 2021_Saag_EastEuropean
-description: Empty package template. Please add a description
+description: Genetic ancestry changes in Stone to Bronze Age transition in the East European plain.
 contributor:
-- name: Josiah Carberry
-  email: carberry@brown.edu
-  orcid: 0000-0002-1825-0097
-packageVersion: 0.1.1
-lastModified: 2024-04-03
+  - name: Thiseas C. Lamnidis
+    email: thiseas_christos_lamnidis@eva.mpg.de
+    orcid: 0000-0003-4485-8570
+packageVersion: 0.1.2
+lastModified: 2024-04-04
 genotypeData:
   format: PLINK
   genoFile: 2021_Saag_EastEuropean.bed
@@ -17,10 +17,10 @@ genotypeData:
   indFileChkSum: c8eab0dd9e3bf11c16dcd5110d86ae2c
   snpSet: 1240K
 jannoFile: 2021_Saag_EastEuropean.janno
-jannoFileChkSum: a12094c301f9c7d1a4e168daf33050ec
+jannoFileChkSum: 5af51d8f44779925b09cbda06a0cd5aa
 sequencingSourceFile: 2021_Saag_EastEuropean.ssf
 sequencingSourceFileChkSum: ede192f2a129e62c78ea8f48c17b50c8
 bibFile: 2021_Saag_EastEuropean.bib
-bibFileChkSum: 9edc4a757f785a8ecb59c54d16c5690a
+bibFileChkSum: f7aca43796b7e1e3633242d8edf19b1b
 readmeFile: README.md
 changelogFile: CHANGELOG.md
