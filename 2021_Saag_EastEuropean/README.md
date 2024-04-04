@@ -47,4 +47,7 @@ paste -d "\t" 2021_Saag_EastEuropean/2021_Saag_EastEuropean.fam <(cut -f 1-3 202
   ' > tmp.fam
   ## Cannot overwrite in the same command that reads in the file, so an extra mv is needed.
   mv tmp.fam 2021_Saag_EastEuropean/2021_Saag_EastEuropean.fam
+
+  ## trident version: 1.4.1.0
+  trident rectify --packageVersion Patch --logText "Fill-in metadata from community-archive: 2021_Saag_EastEuropean-3.2.0" --checksumAll -d .
 ```
