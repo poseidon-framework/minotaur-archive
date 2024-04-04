@@ -5,7 +5,7 @@ contributor:
 - name: Josiah Carberry
   email: carberry@brown.edu
   orcid: 0000-0002-1825-0097
-packageVersion: 0.1.4
+packageVersion: 0.1.5
 lastModified: 2024-04-04
 genotypeData:
   format: PLINK
@@ -21,6 +21,6 @@ jannoFileChkSum: 9b1fc8f11211767fbb5868128327a6cd
 sequencingSourceFile: 2021_CarlhoffNature.ssf
 sequencingSourceFileChkSum: ac4cec11100b5ab343548313c86c68b2
 bibFile: 2021_CarlhoffNature.bib
-bibFileChkSum: dbd8b47d62b1216b3d78d535cc7c7d7b
+bibFileChkSum: 6a742a8973cab71d1676cef91071395c
 readmeFile: README.md
 changelogFile: CHANGELOG.md
