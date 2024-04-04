@@ -1,3 +1,4 @@
+- V 0.1.6: Add contributor and description
 - V 0.1.5: Remove abstract from .bib file
 - V 0.1.4: Add Country_ISO info
 - V 0.1.3: Fill-in metadata from community-archive: 2021_CarlhoffNature-2.2.0

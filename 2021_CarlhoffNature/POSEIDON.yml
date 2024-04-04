@@ -1,11 +1,11 @@
 poseidonVersion: 2.7.1
 title: 2021_CarlhoffNature
-description: Empty package template. Please add a description
+description: Genome of a Middle Holocene hunter-gatherer from Wallacea
 contributor:
-- name: Josiah Carberry
-  email: carberry@brown.edu
-  orcid: 0000-0002-1825-0097
-packageVersion: 0.1.5
+- name: Thiseas C. Lamnidis
+  email: thiseas_christos_lamnidis@eva.mpg.de
+  orcid: 0000-0003-4485-8570
+packageVersion: 0.1.6
 lastModified: 2024-04-04
 genotypeData:
   format: PLINK
