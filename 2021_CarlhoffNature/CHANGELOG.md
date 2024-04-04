@@ -1,3 +1,4 @@
+- V 0.1.4: Add Country_ISO info
 - V 0.1.3: Fill-in metadata from community-archive: 2021_CarlhoffNature-2.2.0
 - V 0.1.2: Add bibtex. Update Genetic_Sex. Add identical individual to Relation_* columns.
 - V 0.1.1: Automatic update of janno file from Minotaur processing.
