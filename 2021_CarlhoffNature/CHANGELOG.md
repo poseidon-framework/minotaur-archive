@@ -1,3 +1,4 @@
+- V 0.1.7: Update .bib
 - V 0.1.6: Add contributor and description
 - V 0.1.5: Remove abstract from .bib file
 - V 0.1.4: Add Country_ISO info

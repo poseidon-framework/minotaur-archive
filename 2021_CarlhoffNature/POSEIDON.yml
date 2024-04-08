@@ -5,8 +5,8 @@ contributor:
 - name: Thiseas C. Lamnidis
   email: thiseas_christos_lamnidis@eva.mpg.de
   orcid: 0000-0003-4485-8570
-packageVersion: 0.1.6
-lastModified: 2024-04-04
+packageVersion: 0.1.7
+lastModified: 2024-04-08
 genotypeData:
   format: PLINK
   genoFile: 2021_CarlhoffNature.bed
@@ -21,6 +21,6 @@ jannoFileChkSum: 9b1fc8f11211767fbb5868128327a6cd
 sequencingSourceFile: 2021_CarlhoffNature.ssf
 sequencingSourceFileChkSum: ac4cec11100b5ab343548313c86c68b2
 bibFile: 2021_CarlhoffNature.bib
-bibFileChkSum: 6a742a8973cab71d1676cef91071395c
+bibFileChkSum: 64bcfc5f95b953b526b559f09a43c72c
 readmeFile: README.md
 changelogFile: CHANGELOG.md
