@@ -1,0 +1,8 @@
+- V 1.0.0: Bump version for release
+- V 0.1.7: Update .bib
+- V 0.1.6: Add contributor and description
+- V 0.1.5: Remove abstract from .bib file
+- V 0.1.4: Add Country_ISO info
+- V 0.1.3: Fill-in metadata from community-archive: 2021_CarlhoffNature-2.2.0
+- V 0.1.2: Add bibtex. Update Genetic_Sex. Add identical individual to Relation_* columns.
+- V 0.1.1: Automatic update of janno file from Minotaur processing.
