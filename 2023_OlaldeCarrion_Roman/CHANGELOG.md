@@ -1,2 +1,4 @@
+- V 0.1.4: Update contributor info.
+- V 0.1.3: Add provided information to janno (thanks @danimfernandes). Mirror info to fam file.
 - V 0.1.2: Add bibtex info and fill Publication column
 - V 0.1.1: Automatic update of janno file from Minotaur processing.
