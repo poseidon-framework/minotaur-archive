@@ -1,6 +1,6 @@
 poseidonVersion: 2.7.1
 title: 2023_OlaldeCarrion_Roman
-description: Empty package template. Please add a description
+description: A genetic history of the Balkans from Roman frontier to Slavic migrations
 contributor:
 - name: Thiseas C. Lamnidis
   email: thiseas_christos_lamnidis@eva.mpg.de
@@ -8,8 +8,8 @@ contributor:
 - name: Daniel M. Fernendes
   email: daniel_fernandes@eva.mpg.de
   orcid: 0000-0002-7434-6552
-packageVersion: 0.1.4
-lastModified: 2024-04-16
+packageVersion: 0.1.5
+lastModified: 2024-04-18
 genotypeData:
   format: PLINK
   genoFile: 2023_OlaldeCarrion_Roman.bed
@@ -20,7 +20,7 @@ genotypeData:
   indFileChkSum: 650b68defad2209d9577bb6e64827e02
   snpSet: 1240K
 jannoFile: 2023_OlaldeCarrion_Roman.janno
-jannoFileChkSum: 5a5ab7ffba9513b4dbc642da8156fa00
+jannoFileChkSum: 8e2e805ee76f2a0f81ca60674ab51682
 sequencingSourceFile: 2023_OlaldeCarrion_Roman.ssf
 sequencingSourceFileChkSum: 924f9cd39fc87532b006dbc906e846cd
 bibFile: 2023_OlaldeCarrion_Roman.bib
