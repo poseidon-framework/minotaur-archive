@@ -1,0 +1,26 @@
+poseidonVersion: 2.7.1
+title: 2021_CarlhoffNature
+description: Genome of a Middle Holocene hunter-gatherer from Wallacea
+contributor:
+- name: Thiseas C. Lamnidis
+  email: thiseas_christos_lamnidis@eva.mpg.de
+  orcid: 0000-0003-4485-8570
+packageVersion: 1.0.0
+lastModified: 2024-04-08
+genotypeData:
+  format: PLINK
+  genoFile: 2021_CarlhoffNature.bed
+  genoFileChkSum: 079d15ad25a6db3f7e3d1da9e105abc3
+  snpFile: 2021_CarlhoffNature.bim
+  snpFileChkSum: 433fa85a23f3123bade02348e4628b75
+  indFile: 2021_CarlhoffNature.fam
+  indFileChkSum: d5982f4cd410501dd26c0b2f2b95a83b
+  snpSet: 1240K
+jannoFile: 2021_CarlhoffNature.janno
+jannoFileChkSum: 9b1fc8f11211767fbb5868128327a6cd
+sequencingSourceFile: 2021_CarlhoffNature.ssf
+sequencingSourceFileChkSum: ac4cec11100b5ab343548313c86c68b2
+bibFile: 2021_CarlhoffNature.bib
+bibFileChkSum: 64bcfc5f95b953b526b559f09a43c72c
+readmeFile: README.md
+changelogFile: CHANGELOG.md
