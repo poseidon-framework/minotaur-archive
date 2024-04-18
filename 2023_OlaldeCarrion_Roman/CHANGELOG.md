@@ -1,3 +1,4 @@
+- V 1.0.0: Bump version for release.
 - V 0.1.5: Add description. mark XXY individual in Notes
 - V 0.1.4: Update contributor info.
 - V 0.1.3: Add provided information to janno (thanks @danimfernandes). Mirror info to fam file.
