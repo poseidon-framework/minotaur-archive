@@ -1,1 +1,2 @@
+- V 0.1.2: Fill-in metadata from community-archive: 2020_Margaryan_Viking-2.2.0
 - V 0.1.1: Automatic update of janno file from Minotaur processing.

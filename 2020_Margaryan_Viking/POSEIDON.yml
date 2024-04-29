@@ -5,7 +5,7 @@ contributor:
 - name: Josiah Carberry
   email: carberry@brown.edu
   orcid: 0000-0002-1825-0097
-packageVersion: 0.1.1
+packageVersion: 0.1.2
 lastModified: 2024-04-29
 genotypeData:
   format: PLINK
@@ -14,10 +14,10 @@ genotypeData:
   snpFile: 2020_Margaryan_Viking.bim
   snpFileChkSum: 433fa85a23f3123bade02348e4628b75
   indFile: 2020_Margaryan_Viking.fam
-  indFileChkSum: 2efa61399619c3ae00d5cc5fceda646d
+  indFileChkSum: dff04f7307450b0203c496044f9c147e
   snpSet: 1240K
 jannoFile: 2020_Margaryan_Viking.janno
-jannoFileChkSum: 1330cafe3cf287086d5957fb335d2263
+jannoFileChkSum: 90baed96fdb8564b4487994564f88196
 sequencingSourceFile: 2020_Margaryan_Viking.ssf
 sequencingSourceFileChkSum: 0581d303055adfc9e7be303b019f6b43
 bibFile: 2020_Margaryan_Viking.bib
