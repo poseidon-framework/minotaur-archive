@@ -1,11 +1,11 @@
 poseidonVersion: 2.7.1
 title: 2020_Margaryan_Viking
-description: Empty package template. Please add a description
+description: Population genomics of the Viking world
 contributor:
-- name: Josiah Carberry
-  email: carberry@brown.edu
-  orcid: 0000-0002-1825-0097
-packageVersion: 0.1.2
+- name: Thiseas C. Lamnidis
+  email: thiseas_christos_lamnidis@eva.mpg.de
+  orcid: 0000-0003-4485-8570
+packageVersion: 0.1.3
 lastModified: 2024-04-29
 genotypeData:
   format: PLINK
@@ -17,10 +17,10 @@ genotypeData:
   indFileChkSum: dff04f7307450b0203c496044f9c147e
   snpSet: 1240K
 jannoFile: 2020_Margaryan_Viking.janno
-jannoFileChkSum: 90baed96fdb8564b4487994564f88196
+jannoFileChkSum: 78cb5d2ed0d26b8a160eca7a15e2270f
 sequencingSourceFile: 2020_Margaryan_Viking.ssf
 sequencingSourceFileChkSum: 0581d303055adfc9e7be303b019f6b43
 bibFile: 2020_Margaryan_Viking.bib
-bibFileChkSum: 9edc4a757f785a8ecb59c54d16c5690a
+bibFileChkSum: 61ba38ee58bda27bfc51ff7cd48a3927
 readmeFile: README.md
 changelogFile: CHANGELOG.md
