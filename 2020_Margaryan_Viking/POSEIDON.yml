@@ -1,0 +1,26 @@
+poseidonVersion: 2.7.1
+title: 2020_Margaryan_Viking
+description: Population genomics of the Viking world
+contributor:
+- name: Thiseas C. Lamnidis
+  email: thiseas_christos_lamnidis@eva.mpg.de
+  orcid: 0000-0003-4485-8570
+packageVersion: 1.0.0
+lastModified: 2024-04-30
+genotypeData:
+  format: PLINK
+  genoFile: 2020_Margaryan_Viking.bed
+  genoFileChkSum: 1afe99eaa387a0dcb4455f9477e6402c
+  snpFile: 2020_Margaryan_Viking.bim
+  snpFileChkSum: 433fa85a23f3123bade02348e4628b75
+  indFile: 2020_Margaryan_Viking.fam
+  indFileChkSum: dff04f7307450b0203c496044f9c147e
+  snpSet: 1240K
+jannoFile: 2020_Margaryan_Viking.janno
+jannoFileChkSum: 78cb5d2ed0d26b8a160eca7a15e2270f
+sequencingSourceFile: 2020_Margaryan_Viking.ssf
+sequencingSourceFileChkSum: 0581d303055adfc9e7be303b019f6b43
+bibFile: 2020_Margaryan_Viking.bib
+bibFileChkSum: 61ba38ee58bda27bfc51ff7cd48a3927
+readmeFile: README.md
+changelogFile: CHANGELOG.md
