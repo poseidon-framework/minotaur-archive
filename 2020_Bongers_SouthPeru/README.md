@@ -47,5 +47,5 @@ paste -d "\t" 2020_Bongers_SouthPeru/2020_Bongers_SouthPeru.fam <(cut -f 1-3 202
   mv tmp.fam 2020_Bongers_SouthPeru/2020_Bongers_SouthPeru.fam
 
   ## trident version: 1.4.1.0
-  trident rectify --packageVersion Patch --logText "Fill-in metadata from community-archive: 2020_Bongers_SouthPeru-2.2.0" --checksumAll -d .
+  trident rectify --packageVersion Patch --logText "Fill-in metadata from community-archive: 2020_Bongers_SouthPeru-2.2.0" --checksumAll -d 2020_Bongers_SouthPeru/
 ```
