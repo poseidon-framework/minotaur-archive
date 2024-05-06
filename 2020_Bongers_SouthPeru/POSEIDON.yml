@@ -6,7 +6,7 @@ contributor:
 - name: Thiseas C. Lamnidis
   email: thiseas_christos_lamnidis@eva.mpg.de
   orcid: 0000-0003-4485-8570
-packageVersion: 0.1.4
+packageVersion: 0.1.5
 lastModified: 2024-05-06
 genotypeData:
   format: PLINK
@@ -18,7 +18,7 @@ genotypeData:
   indFileChkSum: 75557892698076a33113d5871e001175
   snpSet: 1240K
 jannoFile: 2020_Bongers_SouthPeru.janno
-jannoFileChkSum: 493b171fc80fcbdeef79c6d9b1a05726
+jannoFileChkSum: 8bd2c2cd059b5486e2f4b72a1e3c7d83
 sequencingSourceFile: 2020_Bongers_SouthPeru.ssf
 sequencingSourceFileChkSum: 5adfa81937b63625f3f4eecc0c23cd0c
 bibFile: 2020_Bongers_SouthPeru.bib
