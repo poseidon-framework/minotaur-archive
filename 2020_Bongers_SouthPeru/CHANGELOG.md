@@ -1,0 +1,2 @@
+- V 0.1.2: Add BibTex info. Add contributor. Add description.
+- V 0.1.1: Automatic update of janno file from Minotaur processing.
