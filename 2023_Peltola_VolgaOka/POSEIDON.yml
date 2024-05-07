@@ -1,11 +1,11 @@
 poseidonVersion: 2.7.1
 title: 2023_Peltola_VolgaOka
-description: Empty package template. Please add a description
+description: Genetic admixture and language shift in the medieval Volga-Oka interfluve
 contributor:
-- name: Josiah Carberry
-  email: carberry@brown.edu
-  orcid: 0000-0002-1825-0097
-packageVersion: 0.1.1
+- name: Thiseas C. Lamnidis
+  email: thiseas_christos_lamnidis@eva.mpg.de
+  orcid: 0000-0003-4485-8570
+packageVersion: 0.1.2
 lastModified: 2024-05-07
 genotypeData:
   format: PLINK
@@ -17,10 +17,10 @@ genotypeData:
   indFileChkSum: e766cc9d7c5b81083ca33a10912e86d7
   snpSet: 1240K
 jannoFile: 2023_Peltola_VolgaOka.janno
-jannoFileChkSum: 8772f607b1e0342897b84cfb1330455a
+jannoFileChkSum: 4fe24958b51f89d6534ff9bea7b7995f
 sequencingSourceFile: 2023_Peltola_VolgaOka.ssf
 sequencingSourceFileChkSum: 6513c437700297dd1411727f29709ae9
 bibFile: 2023_Peltola_VolgaOka.bib
-bibFileChkSum: 9edc4a757f785a8ecb59c54d16c5690a
+bibFileChkSum: 963e82d0bedf2b44841c1ed9092027f4
 readmeFile: README.md
 changelogFile: CHANGELOG.md
