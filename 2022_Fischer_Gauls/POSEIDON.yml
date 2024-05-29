@@ -1,0 +1,26 @@
+poseidonVersion: 2.7.1
+title: 2022_Fischer_Gauls
+description: Empty package template. Please add a description
+contributor:
+- name: Josiah Carberry
+  email: carberry@brown.edu
+  orcid: 0000-0002-1825-0097
+packageVersion: 0.1.1
+lastModified: 2024-05-29
+genotypeData:
+  format: PLINK
+  genoFile: 2022_Fischer_Gauls.bed
+  genoFileChkSum: 8a5db45e612a6b9ab4b576199e613428
+  snpFile: 2022_Fischer_Gauls.bim
+  snpFileChkSum: 433fa85a23f3123bade02348e4628b75
+  indFile: 2022_Fischer_Gauls.fam
+  indFileChkSum: c4e258934fc3e6be571b4c31a91a3820
+  snpSet: 1240K
+jannoFile: 2022_Fischer_Gauls.janno
+jannoFileChkSum: f26c6a1b39fbd28407011aef3bad6b1b
+sequencingSourceFile: 2022_Fischer_Gauls.ssf
+sequencingSourceFileChkSum: 0d5c665a18728ad8757126dfeb76df64
+bibFile: 2022_Fischer_Gauls.bib
+bibFileChkSum: 9edc4a757f785a8ecb59c54d16c5690a
+readmeFile: README.md
+changelogFile: CHANGELOG.md
