@@ -1,11 +1,12 @@
 poseidonVersion: 2.7.1
 title: 2022_Fischer_Gauls
-description: Empty package template. Please add a description
+description: Origin and mobility of Iron Age Gaulish groups in present-day France
+  revealed through archaeogenomics
 contributor:
-- name: Josiah Carberry
-  email: carberry@brown.edu
-  orcid: 0000-0002-1825-0097
-packageVersion: 0.1.1
+- name: Thiseas C. Lamnidis
+  email: thiseas_christos_lamnidis@eva.mpg.de
+  orcid: 0000-0003-4485-8570
+packageVersion: 0.1.2
 lastModified: 2024-05-29
 genotypeData:
   format: PLINK
@@ -17,10 +18,10 @@ genotypeData:
   indFileChkSum: c4e258934fc3e6be571b4c31a91a3820
   snpSet: 1240K
 jannoFile: 2022_Fischer_Gauls.janno
-jannoFileChkSum: f26c6a1b39fbd28407011aef3bad6b1b
+jannoFileChkSum: 923bb43c718b0c305bc99ae84d2c05e0
 sequencingSourceFile: 2022_Fischer_Gauls.ssf
 sequencingSourceFileChkSum: 0d5c665a18728ad8757126dfeb76df64
 bibFile: 2022_Fischer_Gauls.bib
-bibFileChkSum: 9edc4a757f785a8ecb59c54d16c5690a
+bibFileChkSum: bc509bb0298b0cf1ac601722644c934e
 readmeFile: README.md
 changelogFile: CHANGELOG.md
