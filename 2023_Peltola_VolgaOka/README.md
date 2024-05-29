@@ -47,5 +47,5 @@ paste -d "\t" 2023_Peltola_VolgaOka/2023_Peltola_VolgaOka.fam <(cut -f 1-3 2023_
   mv tmp.fam 2023_Peltola_VolgaOka/2023_Peltola_VolgaOka.fam
 
   ## trident version: 1.4.1.0
-  trident rectify --packageVersion Patch --logText "Fill-in metadata from community-archive: 2023_Peltola_VolgaOka-1.1.0" --checksumAll -d .
+  trident rectify --packageVersion Patch --logText "Fill-in metadata from community-archive: 2023_Peltola_VolgaOka-1.1.0" --checksumAll -d 2023_Peltola_VolgaOka
 ```
