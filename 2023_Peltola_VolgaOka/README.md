@@ -8,3 +8,44 @@ This package was created on 2024-05-07 and was processed using the following ver
  - Package config version: 0.3.0dev
  - Minotaur-packager version: 0.3.0dev
  - populate_janno.py version: 0.3.2dev
+
+## Fill relevant columns from the community archive package.
+
+```bash
+## First fill-in missing metadata from relevant columns (no processing-based info).
+trident jannocoalesce \
+  -s ../../archives/community-archive/2023_Peltola_VolgaOka-1.1.0/2023_Peltola_VolgaOka.janno \
+  -t 2023_Peltola_VolgaOka/2023_Peltola_VolgaOka.janno \
+  --stripIdRegex "(_ss_MNT$)|(_MNT$)" \
+  --includeColumns Alternative_IDs,Relation_To,Relation_Degree,Relation_Type,Relation_Note,Collection_ID,Country,Country_ISO,Location,Site,Latitude,Longitude,Date_Type,Date_C14_Labnr,Date_C14_Uncal_BP,Date_C14_Uncal_BP_Err,Date_BC_AD_Start,Date_BC_AD_Median,Date_BC_AD_Stop,Date_Note,MT_Haplogroup,Y_Haplogroup,Source_Tissue,Primary_Contact,Note,Keywords
+
+## Then fill in Group_Name and Genetic_Sex
+trident jannocoalesce \
+  -s ../../archives/community-archive/2023_Peltola_VolgaOka-1.1.0/2023_Peltola_VolgaOka.janno \
+  -t 2023_Peltola_VolgaOka/2023_Peltola_VolgaOka.janno \
+  --stripIdRegex "(_ss_MNT$)|(_MNT$)" \
+  --includeColumns Genetic_Sex,Group_Name \
+  --force
+
+## Mirror Sex and Group name info to the fam file.
+paste -d "\t" 2023_Peltola_VolgaOka/2023_Peltola_VolgaOka.fam <(cut -f 1-3 2023_Peltola_VolgaOka/2023_Peltola_VolgaOka.janno |tail -n +2) | \
+  awk '
+  BEGIN{
+    OFS=IFS="\t"
+  }
+  {
+    $1=$9
+    if ($8 == "M") {
+      $5=1
+    } else if ($8 == "F") {
+      $5=2
+    }
+    print $1,$2,$3,$4,$5,$6
+  }
+  ' > tmp.fam
+  ## Cannot overwrite in the same command that reads in the file, so an extra mv is needed.
+  mv tmp.fam 2023_Peltola_VolgaOka/2023_Peltola_VolgaOka.fam
+
+  ## trident version: 1.4.1.0
+  trident rectify --packageVersion Patch --logText "Fill-in metadata from community-archive: 2023_Peltola_VolgaOka-1.1.0" --checksumAll -d .
+```
