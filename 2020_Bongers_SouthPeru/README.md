@@ -48,4 +48,19 @@ paste -d "\t" 2020_Bongers_SouthPeru/2020_Bongers_SouthPeru.fam <(cut -f 1-3 202
 
   ## trident version: 1.4.1.0
   trident rectify --packageVersion Patch --logText "Fill-in metadata from community-archive: 2020_Bongers_SouthPeru-2.2.0" --checksumAll -d 2020_Bongers_SouthPeru/
+
+## Arrange Poseidon_IDs alphabetically
+## First, move the old directory out of the way (avoids all files being renamed by trident forge)
+cd ../ ## Start from the parent directory, since we need to rename the directory we were in.
+package_name="2020_Bongers_SouthPeru"
+mv ${package_name} ${package_name}_old
+
+##   qjanno v1.0.0.1
+qjanno "SELECT '<'||Poseidon_ID||'>' FROM d(${package_name}_old) ORDER BY Poseidon_ID" --raw --noOutHeader > desiredOrder.txt
+
+## Rearrange package contents to the desired order.
+## trident v1.5.4.0
+trident forge -d ${package_name}_old --forgeFile desiredOrder.txt -o ${package_name} --ordered --preservePyml
+trident rectify -d ${package_name} --packageVersion Minor --logText "Arranged Poseidon_IDs alphabetically" --checksumAll
+## Once the new package has been verified, the '_old' directory can be removed.
 ```

@@ -6,22 +6,22 @@ contributor:
 - name: Thiseas C. Lamnidis
   email: thiseas_christos_lamnidis@eva.mpg.de
   orcid: 0000-0003-4485-8570
-packageVersion: 0.1.5
-lastModified: 2024-05-06
+packageVersion: 0.2.0
+lastModified: 2024-07-17
 genotypeData:
   format: PLINK
   genoFile: 2020_Bongers_SouthPeru.bed
-  genoFileChkSum: 478af1eb46ee0ba53a16c35051e6f7cb
+  genoFileChkSum: f80d808156b11be3ff454a2cce6ee2ad
   snpFile: 2020_Bongers_SouthPeru.bim
   snpFileChkSum: 433fa85a23f3123bade02348e4628b75
   indFile: 2020_Bongers_SouthPeru.fam
-  indFileChkSum: 75557892698076a33113d5871e001175
+  indFileChkSum: c92b6bd217075f64d0e1bcde9c499080
   snpSet: 1240K
 jannoFile: 2020_Bongers_SouthPeru.janno
-jannoFileChkSum: 8bd2c2cd059b5486e2f4b72a1e3c7d83
+jannoFileChkSum: 6c1ed98562021eeb751fbc647824b513
 sequencingSourceFile: 2020_Bongers_SouthPeru.ssf
-sequencingSourceFileChkSum: 5adfa81937b63625f3f4eecc0c23cd0c
+sequencingSourceFileChkSum: a6b5fd5157b862791c5247ec47975d77
 bibFile: 2020_Bongers_SouthPeru.bib
-bibFileChkSum: 48eee1eff2ffde9fafe4a4c7ec028fa2
+bibFileChkSum: 8256c4c8ccc3e93c15ea2dec236d241c
 readmeFile: README.md
 changelogFile: CHANGELOG.md
