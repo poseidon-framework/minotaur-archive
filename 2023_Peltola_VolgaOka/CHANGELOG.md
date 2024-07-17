@@ -1,3 +1,4 @@
+- V 0.2.0: Arranged Poseidon_IDs alphabetically
 - V 0.1.4: Add Country_ISO information
 - V 0.1.3: Fill-in metadata from community-archive: 2023_Peltola_VolgaOka-1.1.0
 - V 0.1.2: Add BibTex info. Add contributor. Add description.

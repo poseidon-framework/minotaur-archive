@@ -48,4 +48,18 @@ paste -d "\t" 2023_Peltola_VolgaOka/2023_Peltola_VolgaOka.fam <(cut -f 1-3 2023_
 
   ## trident version: 1.4.1.0
   trident rectify --packageVersion Patch --logText "Fill-in metadata from community-archive: 2023_Peltola_VolgaOka-1.1.0" --checksumAll -d 2023_Peltola_VolgaOka
+
+## Arrange Poseidon_IDs alphabetically
+## First, move the old directory out of the way (avoids all files being renamed by trident forge)
+cd ../ ## Start from the parent directory, since we need to rename the directory we were in.
+mv 2023_Peltola_VolgaOka 2023_Peltola_VolgaOka_old
+
+##   qjanno v1.0.0.1
+qjanno "SELECT '<'||Poseidon_ID||'>' FROM d(2023_Peltola_VolgaOka_old) ORDER BY Poseidon_ID" --raw --noOutHeader > desiredOrder.txt
+
+## Rearrange package contents to the desired order.
+## trident v1.5.4.0
+trident forge -d 2023_Peltola_VolgaOka_old --forgeFile desiredOrder.txt -o 2023_Peltola_VolgaOka --ordered --preservePyml
+trident rectify -d 2023_Peltola_VolgaOka --packageVersion Minor --logText "Arranged Poseidon_IDs alphabetically" --checksumAll
+## Once the new package has been verified, the '_old' directory can be removed.
 ```
