@@ -1,6 +1,6 @@
 title: Poseidon minotaur-archive chronicle
-chronicleVersion: 1.3.0
-lastModified: 2024-04-30
+chronicleVersion: 1.5.0
+lastModified: 2024-07-17
 packages:
 - title: 2020_Margaryan_Viking
   version: 1.0.0
@@ -10,11 +10,23 @@ packages:
   version: 1.0.0
   commit: fa09bafe346791c1cba137b8afc905f9fdbb6a17
   path: 2021_CarlhoffNature
+- title: 2021_CarlhoffNature
+  version: 1.0.1
+  commit: 7b598465b8637841f554b84cd1fc43af84a329b1
+  path: 2021_CarlhoffNature
 - title: 2021_Saag_EastEuropean
   version: 1.0.0
   commit: fa09bafe346791c1cba137b8afc905f9fdbb6a17
+  path: 2021_Saag_EastEuropean
+- title: 2021_Saag_EastEuropean
+  version: 1.0.1
+  commit: 7b598465b8637841f554b84cd1fc43af84a329b1
   path: 2021_Saag_EastEuropean
 - title: 2023_OlaldeCarrion_Roman
   version: 1.0.0
   commit: 3a8c6d97bf581e45b183671ac0171b37045ed805
   path: 2023_OlaldeCarrion_Roman
+- title: 2023_Peltola_VolgaOka
+  version: 1.0.0
+  commit: 2ea9212f1173325fe08958171c751a7f6494daed
+  path: 2023_Peltola_VolgaOka

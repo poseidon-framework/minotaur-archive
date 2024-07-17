@@ -1,0 +1,26 @@
+poseidonVersion: 2.7.1
+title: 2023_Peltola_VolgaOka
+description: Genetic admixture and language shift in the medieval Volga-Oka interfluve
+contributor:
+- name: Thiseas C. Lamnidis
+  email: thiseas_christos_lamnidis@eva.mpg.de
+  orcid: 0000-0003-4485-8570
+packageVersion: 1.0.0
+lastModified: 2024-07-17
+genotypeData:
+  format: PLINK
+  genoFile: 2023_Peltola_VolgaOka.bed
+  genoFileChkSum: 96023023ae7a3700890c49c359fe6c3e
+  snpFile: 2023_Peltola_VolgaOka.bim
+  snpFileChkSum: 433fa85a23f3123bade02348e4628b75
+  indFile: 2023_Peltola_VolgaOka.fam
+  indFileChkSum: a041f19a260ec02b0830a1bb1babf737
+  snpSet: 1240K
+jannoFile: 2023_Peltola_VolgaOka.janno
+jannoFileChkSum: 5317113bb7f41faf98f4790a9194dab3
+sequencingSourceFile: 2023_Peltola_VolgaOka.ssf
+sequencingSourceFileChkSum: 6390baaa7ddfd224306a3c4588909e7e
+bibFile: 2023_Peltola_VolgaOka.bib
+bibFileChkSum: acac934e429fc3ec30c412686d25aaab
+readmeFile: README.md
+changelogFile: CHANGELOG.md

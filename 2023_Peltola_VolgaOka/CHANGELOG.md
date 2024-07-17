@@ -1,6 +1,6 @@
-- V 1.0.1: rename Individual_ID to Main_ID for consistency
 - V 1.0.0: Bump version for release
+- V 0.2.0: Arranged Poseidon_IDs alphabetically
 - V 0.1.4: Add Country_ISO information
-- V 0.1.3: Fill-in metadata from community-archive: 2021_Saag_EastEuropean-3.2.0
+- V 0.1.3: Fill-in metadata from community-archive: 2023_Peltola_VolgaOka-1.1.0
 - V 0.1.2: Add BibTex info. Add contributor. Add description.
 - V 0.1.1: Automatic update of janno file from Minotaur processing.
