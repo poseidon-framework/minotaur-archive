@@ -1,3 +1,4 @@
+- V 1.0.1: rename Individual_ID to Main_ID for consistency
 - V 1.0.0: Bump version for release
 - V 0.1.4: Add Country_ISO information
 - V 0.1.3: Fill-in metadata from community-archive: 2021_Saag_EastEuropean-3.2.0
