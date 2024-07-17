@@ -1,3 +1,4 @@
+- V 1.0.0: Bump version for release
 - V 0.2.0: Arranged Poseidon_IDs alphabetically
 - V 0.1.5: Fill Lon/Lat, mtDNA/Y haplos, Country_ISO, Publication columns
 - V 0.1.4: Update Genetic_Sex from sexdeterrmine results
