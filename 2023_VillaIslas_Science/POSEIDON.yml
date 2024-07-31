@@ -1,0 +1,23 @@
+poseidonVersion: 2.7.1
+title: 2023_VillaIslas_Science
+description: Empty package template. Please add a description
+contributor:
+- name: Thiseas C. Lamnidis
+  email: thiseas_christos_lamnidis@eva.mpg.de
+packageVersion: 0.2.0
+lastModified: 2024-07-31
+genotypeData:
+  format: PLINK
+  genoFile: 2023_VillaIslas_Science.bed
+  genoFileChkSum: c48338ecae088433a01ef6a07b6843fa
+  snpFile: 2023_VillaIslas_Science.bim
+  snpFileChkSum: 433fa85a23f3123bade02348e4628b75
+  indFile: 2023_VillaIslas_Science.fam
+  indFileChkSum: 4742ac2d9962ecfe2bc1ee98ec0b78ce
+  snpSet: 1240K
+jannoFile: 2023_VillaIslas_Science.janno
+jannoFileChkSum: c9cf2dd7dd2b7c7b8fb53c2346d156d1
+sequencingSourceFile: 2023_VillaIslas_Science.ssf
+sequencingSourceFileChkSum: 7b18559a4174c9044f5c2b1b277d0a74
+readmeFile: README.md
+changelogFile: CHANGELOG.md
