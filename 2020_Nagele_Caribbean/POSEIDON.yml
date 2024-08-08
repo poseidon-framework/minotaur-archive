@@ -1,0 +1,23 @@
+poseidonVersion: 2.7.1
+title: 2020_Nagele_Caribbean
+description: Empty package template. Please add a description
+contributor:
+- name: Thiseas C. Lamnidis
+  email: thiseas_christos_lamnidis@eva.mpg.de
+packageVersion: 0.2.0
+lastModified: 2024-08-08
+genotypeData:
+  format: PLINK
+  genoFile: 2020_Nagele_Caribbean.bed
+  genoFileChkSum: 4d55e82fe5aff8b50ada306b3c265c72
+  snpFile: 2020_Nagele_Caribbean.bim
+  snpFileChkSum: 433fa85a23f3123bade02348e4628b75
+  indFile: 2020_Nagele_Caribbean.fam
+  indFileChkSum: 82cb14dde28802486a9d9c65e5aa2419
+  snpSet: 1240K
+jannoFile: 2020_Nagele_Caribbean.janno
+jannoFileChkSum: 046f72cb4966f803657d7813f7eb48fc
+sequencingSourceFile: 2020_Nagele_Caribbean.ssf
+sequencingSourceFileChkSum: bd9da21f1b44a88f7ec691e8b9153859
+readmeFile: README.md
+changelogFile: CHANGELOG.md
