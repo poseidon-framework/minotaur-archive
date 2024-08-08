@@ -4,7 +4,7 @@ description: Empty package template. Please add a description
 contributor:
 - name: Thiseas C. Lamnidis
   email: thiseas_christos_lamnidis@eva.mpg.de
-packageVersion: 0.2.0
+packageVersion: 0.2.1
 lastModified: 2024-08-08
 genotypeData:
   format: PLINK
@@ -13,10 +13,10 @@ genotypeData:
   snpFile: 2020_Nagele_Caribbean.bim
   snpFileChkSum: 433fa85a23f3123bade02348e4628b75
   indFile: 2020_Nagele_Caribbean.fam
-  indFileChkSum: 82cb14dde28802486a9d9c65e5aa2419
+  indFileChkSum: b747059f15a361bf019383535a621b03
   snpSet: 1240K
 jannoFile: 2020_Nagele_Caribbean.janno
-jannoFileChkSum: 046f72cb4966f803657d7813f7eb48fc
+jannoFileChkSum: 569cad62b746a21e5ce731ec17572e10
 sequencingSourceFile: 2020_Nagele_Caribbean.ssf
 sequencingSourceFileChkSum: bd9da21f1b44a88f7ec691e8b9153859
 readmeFile: README.md
