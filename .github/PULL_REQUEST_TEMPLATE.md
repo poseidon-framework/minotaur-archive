@@ -3,7 +3,7 @@ Adds/Updates `<package_name>`
 Linked to https://github.com/poseidon-framework/minotaur-recipes/issues/XXX
 <!-- Link to the Minotaur-recipes issue above. https://github.com/poseidon-framework/minotaur-recipes/issues -->
 
-New packages added to the PMA are always published in version `1.0.0`. This means that nay and all changes made to the package during the review process, should only bump the `Minor` or `Patch` version of the package.
+New packages added to the [minotaur archive](https://github.com/poseidon-framework/minotaur-archive) are always published in version `1.0.0`. This means that nay and all changes made to the package during the review process, should only bump the `Minor` or `Patch` version of the package.
 
 PR checklist:
 
