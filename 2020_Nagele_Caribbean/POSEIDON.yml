@@ -4,8 +4,8 @@ description: Empty package template. Please add a description
 contributor:
 - name: Thiseas C. Lamnidis
   email: thiseas_christos_lamnidis@eva.mpg.de
-packageVersion: 0.2.1
-lastModified: 2024-08-08
+packageVersion: 0.2.2
+lastModified: 2024-08-12
 genotypeData:
   format: PLINK
   genoFile: 2020_Nagele_Caribbean.bed
@@ -16,7 +16,7 @@ genotypeData:
   indFileChkSum: b747059f15a361bf019383535a621b03
   snpSet: 1240K
 jannoFile: 2020_Nagele_Caribbean.janno
-jannoFileChkSum: 569cad62b746a21e5ce731ec17572e10
+jannoFileChkSum: 93745b01e9548dde521826a4555c901d
 sequencingSourceFile: 2020_Nagele_Caribbean.ssf
 sequencingSourceFileChkSum: bd9da21f1b44a88f7ec691e8b9153859
 readmeFile: README.md
