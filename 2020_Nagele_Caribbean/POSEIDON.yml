@@ -1,10 +1,10 @@
 poseidonVersion: 2.7.1
 title: 2020_Nagele_Caribbean
-description: Empty package template. Please add a description
+description: Genomic insights into the early peopling of the Caribbean
 contributor:
 - name: Thiseas C. Lamnidis
   email: thiseas_christos_lamnidis@eva.mpg.de
-packageVersion: 0.2.2
+packageVersion: 0.2.3
 lastModified: 2024-08-12
 genotypeData:
   format: PLINK
@@ -16,8 +16,10 @@ genotypeData:
   indFileChkSum: b747059f15a361bf019383535a621b03
   snpSet: 1240K
 jannoFile: 2020_Nagele_Caribbean.janno
-jannoFileChkSum: 93745b01e9548dde521826a4555c901d
+jannoFileChkSum: 91b8ca74b32481f9790db9359660234b
 sequencingSourceFile: 2020_Nagele_Caribbean.ssf
 sequencingSourceFileChkSum: bd9da21f1b44a88f7ec691e8b9153859
+bibFile: 2020_Nagele_Caribbean.bib
+bibFileChkSum: 9b817ee3f1240c089bf186a5fe240d19
 readmeFile: README.md
 changelogFile: CHANGELOG.md
