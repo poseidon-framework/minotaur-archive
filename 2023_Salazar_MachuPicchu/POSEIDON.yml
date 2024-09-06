@@ -1,0 +1,23 @@
+poseidonVersion: 2.7.1
+title: 2023_Salazar_MachuPicchu
+description: Empty package template. Please add a description
+contributor:
+- name: Thiseas C. Lamnidis
+  email: thiseas_christos_lamnidis@eva.mpg.de
+packageVersion: 0.2.0
+lastModified: 2024-09-06
+genotypeData:
+  format: PLINK
+  genoFile: 2023_Salazar_MachuPicchu.bed
+  genoFileChkSum: 97f258ab42087b1906d212517b0cca89
+  snpFile: 2023_Salazar_MachuPicchu.bim
+  snpFileChkSum: 433fa85a23f3123bade02348e4628b75
+  indFile: 2023_Salazar_MachuPicchu.fam
+  indFileChkSum: 555fb78a7546e5d651b2f319b3ff2122
+  snpSet: 1240K
+jannoFile: 2023_Salazar_MachuPicchu.janno
+jannoFileChkSum: 44ae68b0231cb89e7181d5186ee55ec8
+sequencingSourceFile: 2023_Salazar_MachuPicchu.ssf
+sequencingSourceFileChkSum: 07d1d6ce1b8e976615cf530e543075bb
+readmeFile: README.md
+changelogFile: CHANGELOG.md
