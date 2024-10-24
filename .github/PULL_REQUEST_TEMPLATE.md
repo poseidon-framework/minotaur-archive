@@ -13,7 +13,7 @@ PR checklist:
    - [ ] The commands used for the fill-in and any tool versions are kept track of in the README file.
 - [ ] `Country` information is also present in the `Country_ISO` column.
 
-Once the Pull Request has passed the review process, ensure the pacakge version is bumped once more before publishing with:
+Once the Pull Request has passed the review process, ensure the package version is bumped once more before publishing with:
 
 ```
 trident rectify -d <package_dir> --logText 'Bump version for release' --packageVersionMajor --checksumAll
