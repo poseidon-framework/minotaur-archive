@@ -1,0 +1,23 @@
+poseidonVersion: 2.7.1
+title: 2023_Ferraz_NatureEcologyEvolution
+description: Empty package template. Please add a description
+contributor:
+- name: Thiseas C. Lamnidis
+  email: thiseas_christos_lamnidis@eva.mpg.de
+packageVersion: 0.2.0
+lastModified: 2024-11-22
+genotypeData:
+  format: PLINK
+  genoFile: 2023_Ferraz_NatureEcologyEvolution.bed
+  genoFileChkSum: 80cf245e3d5c18b67b136b41762723c2
+  snpFile: 2023_Ferraz_NatureEcologyEvolution.bim
+  snpFileChkSum: 433fa85a23f3123bade02348e4628b75
+  indFile: 2023_Ferraz_NatureEcologyEvolution.fam
+  indFileChkSum: 50dda284fc7d8975726fac403cf84001
+  snpSet: 1240K
+jannoFile: 2023_Ferraz_NatureEcologyEvolution.janno
+jannoFileChkSum: 31796e4058e672c6c2dc775666face42
+sequencingSourceFile: 2023_Ferraz_NatureEcologyEvolution.ssf
+sequencingSourceFileChkSum: c472418b35efb0c3b9b3f8f3503a1309
+readmeFile: README.md
+changelogFile: CHANGELOG.md
