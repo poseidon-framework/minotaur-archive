@@ -1,0 +1,23 @@
+poseidonVersion: 2.7.1
+title: 2022_Kennett_Belize
+description: Empty package template. Please add a description
+contributor:
+- name: Thiseas C. Lamnidis
+  email: thiseas_christos_lamnidis@eva.mpg.de
+packageVersion: 0.2.0
+lastModified: 2024-11-26
+genotypeData:
+  format: PLINK
+  genoFile: 2022_Kennett_Belize.bed
+  genoFileChkSum: 88adc1ab1cb952796e4ea50e6f34cd9c
+  snpFile: 2022_Kennett_Belize.bim
+  snpFileChkSum: 433fa85a23f3123bade02348e4628b75
+  indFile: 2022_Kennett_Belize.fam
+  indFileChkSum: a94332c80560d8b1ed3ca34e12b2e9d3
+  snpSet: 1240K
+jannoFile: 2022_Kennett_Belize.janno
+jannoFileChkSum: 8e1c13799c74182a257c68a7362e0f8e
+sequencingSourceFile: 2022_Kennett_Belize.ssf
+sequencingSourceFileChkSum: 7c8e65c0edad90b85c84ce119d37f9ba
+readmeFile: README.md
+changelogFile: CHANGELOG.md
