@@ -1,5 +1,5 @@
 poseidonVersion: 2.7.1
-title: 2023_Rodriguez_Varela_Scandinavia
+title: 2023_RodriguezVarela_Scandinavia
 description: Empty package template. Please add a description
 contributor:
 - name: Thiseas C. Lamnidis
@@ -8,16 +8,16 @@ packageVersion: 0.2.0
 lastModified: 2024-11-22
 genotypeData:
   format: PLINK
-  genoFile: 2023_Rodriguez_Varela_Scandinavia.bed
+  genoFile: 2023_RodriguezVarela_Scandinavia.bed
   genoFileChkSum: e8adec6e4920b43334434a61b4d3fcbe
-  snpFile: 2023_Rodriguez_Varela_Scandinavia.bim
+  snpFile: 2023_RodriguezVarela_Scandinavia.bim
   snpFileChkSum: 433fa85a23f3123bade02348e4628b75
-  indFile: 2023_Rodriguez_Varela_Scandinavia.fam
+  indFile: 2023_RodriguezVarela_Scandinavia.fam
   indFileChkSum: 67d1ac6b2201a3953f7ee931f006d6a5
   snpSet: 1240K
-jannoFile: 2023_Rodriguez_Varela_Scandinavia.janno
-jannoFileChkSum: 2a8c01b2bf344c6140bf8c5f6d5ed52a
-sequencingSourceFile: 2023_Rodriguez_Varela_Scandinavia.ssf
+jannoFile: 2023_RodriguezVarela_Scandinavia.janno
+jannoFileChkSum: dc8f2d34609189923faf12a726c25b70
+sequencingSourceFile: 2023_RodriguezVarela_Scandinavia.ssf
 sequencingSourceFileChkSum: 396d73526ca544260d49498bd026a26f
 readmeFile: README.md
 changelogFile: CHANGELOG.md
