@@ -1,4 +1,4 @@
-# 2023_Rodriguez_Varela_Scandinavia
+# 2023_RodriguezVarela_Scandinavia
 This package was created on 2024-11-22 and was processed using the following versions:
  - nf-core/eager version:  2.5.1
  - Minotaur config version: 0.4.0dev
