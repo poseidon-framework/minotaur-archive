@@ -4,8 +4,8 @@ description: Empty package template. Please add a description
 contributor:
 - name: Thiseas C. Lamnidis
   email: thiseas_christos_lamnidis@eva.mpg.de
-packageVersion: 0.2.0
-lastModified: 2024-11-22
+packageVersion: 0.3.0
+lastModified: 2024-11-27
 genotypeData:
   format: PLINK
   genoFile: 2023_RodriguezVarela_Scandinavia.bed
@@ -19,5 +19,7 @@ jannoFile: 2023_RodriguezVarela_Scandinavia.janno
 jannoFileChkSum: dc8f2d34609189923faf12a726c25b70
 sequencingSourceFile: 2023_RodriguezVarela_Scandinavia.ssf
 sequencingSourceFileChkSum: 396d73526ca544260d49498bd026a26f
+bibFile: 2023_RodriguezVarela_Scandinavia.bib
+bibFileChkSum: 80035be432d7dfe085c4afdd70abd3c9
 readmeFile: README.md
 changelogFile: CHANGELOG.md
