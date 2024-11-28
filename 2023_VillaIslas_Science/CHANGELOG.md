@@ -1,0 +1,3 @@
+- V 0.2.0: Rearrange Poseidon_IDs alphabetically.
+- V 0.1.2: Automatic update of janno file from Minotaur processing.
+- V 0.1.1: Added self as contributor to package.
