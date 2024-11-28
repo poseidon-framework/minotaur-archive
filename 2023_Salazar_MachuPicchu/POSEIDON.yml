@@ -4,7 +4,7 @@ description: Empty package template. Please add a description
 contributor:
 - name: Thiseas C. Lamnidis
   email: thiseas_christos_lamnidis@eva.mpg.de
-packageVersion: 0.2.1
+packageVersion: 0.2.2
 lastModified: 2024-11-28
 genotypeData:
   format: PLINK
@@ -16,8 +16,10 @@ genotypeData:
   indFileChkSum: 4f17963dddce26ffe81f56a01563decf
   snpSet: 1240K
 jannoFile: 2023_Salazar_MachuPicchu.janno
-jannoFileChkSum: 56d7f6046411ec23ab1f67fa6b20e06b
+jannoFileChkSum: 65ef1882cd8884f3031bd610d4eb2863
 sequencingSourceFile: 2023_Salazar_MachuPicchu.ssf
 sequencingSourceFileChkSum: 07d1d6ce1b8e976615cf530e543075bb
+bibFile: 2023_Salazar_MachuPicchu.bib
+bibFileChkSum: efbcf469f724eba20acfa0d4c8425b26
 readmeFile: README.md
 changelogFile: CHANGELOG.md
