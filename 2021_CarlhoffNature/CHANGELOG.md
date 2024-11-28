@@ -1,3 +1,4 @@
+- V 1.0.1: rename Individual_ID to Main_ID for consistency
 - V 1.0.0: Bump version for release
 - V 0.1.7: Update .bib
 - V 0.1.6: Add contributor and description
