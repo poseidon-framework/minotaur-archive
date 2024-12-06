@@ -6,7 +6,9 @@ contributor:
 - name: Thiseas C. Lamnidis
   email: thiseas_christos_lamnidis@eva.mpg.de
   orcid: 0000-0003-4485-8570
-packageVersion: 0.1.4
+- name: Luca Berndt Thale-Bombien
+  email: luca_thale_bombien@eva.mpg.de
+packageVersion: 0.1.6
 lastModified: 2024-12-06
 genotypeData:
   format: PLINK
@@ -18,7 +20,7 @@ genotypeData:
   indFileChkSum: b4826484b98a96e154356d1f90be3cbb
   snpSet: 1240K
 jannoFile: 2022_Fischer_Gauls.janno
-jannoFileChkSum: 63cf9ac1efcbc1f385187bfa94c38f3e
+jannoFileChkSum: 6759105e1d193ea065c4fed9e35d4de5
 sequencingSourceFile: 2022_Fischer_Gauls.ssf
 sequencingSourceFileChkSum: 0d5c665a18728ad8757126dfeb76df64
 bibFile: 2022_Fischer_Gauls.bib
