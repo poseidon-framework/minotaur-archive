@@ -14,9 +14,10 @@ PR checklist:
    - [ ] The BibTex key used for the citation is _identical_ to that in the corresponding package in the community archive.
    - [ ] The DOI in the BibTex file is _identical_ to the one used in the corresponding package in the comunity archive.
 - [ ] `Country` information is also present in the `Country_ISO` column.
+- [ ] Add any additional contributors to `POSEIDON.yml`
 
 Once the Pull Request has passed the review process, ensure the package version is bumped once more before publishing with:
 
 ```
-trident rectify -d <package_dir> --logText 'Bump version for release' --packageVersionMajor --checksumAll
+trident rectify -d <package_dir> --logText 'Bump version for release' --packageVersion Major --checksumAll
 ```
