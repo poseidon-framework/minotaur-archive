@@ -1,6 +1,6 @@
 title: Poseidon minotaur-archive chronicle
-chronicleVersion: 1.7.0
-lastModified: 2024-11-08
+chronicleVersion: 1.8.0
+lastModified: 2024-12-06
 packages:
 - title: 2020_Bongers_SouthPeru
   version: 1.0.0
@@ -38,3 +38,7 @@ packages:
   version: 1.0.0
   commit: 2ea9212f1173325fe08958171c751a7f6494daed
   path: 2023_Peltola_VolgaOka
+- title: 2023_Salazar_MachuPicchu
+  version: 1.0.0
+  commit: 38efa935785d407cf9cb02947c72ea327349de83
+  path: 2023_Salazar_MachuPicchu
