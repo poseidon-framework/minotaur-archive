@@ -1,3 +1,4 @@
+- V 0.2.3: Remove empty janno columns
 - V 0.2.2: Add BibFile and publication info
 - V 0.2.1: Add janno info collected by @Kavlahkaff. Mirror info to fam file.
 - V 0.2.0: Rearrange Poseidon_IDs alphabetically.
