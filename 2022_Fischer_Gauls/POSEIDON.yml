@@ -8,7 +8,7 @@ contributor:
   orcid: 0000-0003-4485-8570
 - name: Luca Berndt Thale-Bombien
   email: luca_thale_bombien@eva.mpg.de
-packageVersion: 0.1.6
+packageVersion: 0.1.7
 lastModified: 2024-12-06
 genotypeData:
   format: PLINK
@@ -24,6 +24,6 @@ jannoFileChkSum: 6759105e1d193ea065c4fed9e35d4de5
 sequencingSourceFile: 2022_Fischer_Gauls.ssf
 sequencingSourceFileChkSum: 0d5c665a18728ad8757126dfeb76df64
 bibFile: 2022_Fischer_Gauls.bib
-bibFileChkSum: c4ade0c9332c1d68a37115184ee7a1f7
+bibFileChkSum: 0aabf7650b1d841e5b32af8584c1cb9e
 readmeFile: README.md
 changelogFile: CHANGELOG.md
