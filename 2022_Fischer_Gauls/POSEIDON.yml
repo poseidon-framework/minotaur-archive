@@ -1,0 +1,29 @@
+poseidonVersion: 2.7.1
+title: 2022_Fischer_Gauls
+description: Origin and mobility of Iron Age Gaulish groups in present-day France
+  revealed through archaeogenomics
+contributor:
+- name: Thiseas C. Lamnidis
+  email: thiseas_christos_lamnidis@eva.mpg.de
+  orcid: 0000-0003-4485-8570
+- name: Luca Berndt Thale-Bombien
+  email: luca_thale_bombien@eva.mpg.de
+packageVersion: 0.1.7
+lastModified: 2024-12-06
+genotypeData:
+  format: PLINK
+  genoFile: 2022_Fischer_Gauls.bed
+  genoFileChkSum: 8a5db45e612a6b9ab4b576199e613428
+  snpFile: 2022_Fischer_Gauls.bim
+  snpFileChkSum: 433fa85a23f3123bade02348e4628b75
+  indFile: 2022_Fischer_Gauls.fam
+  indFileChkSum: b4826484b98a96e154356d1f90be3cbb
+  snpSet: 1240K
+jannoFile: 2022_Fischer_Gauls.janno
+jannoFileChkSum: 6759105e1d193ea065c4fed9e35d4de5
+sequencingSourceFile: 2022_Fischer_Gauls.ssf
+sequencingSourceFileChkSum: 0d5c665a18728ad8757126dfeb76df64
+bibFile: 2022_Fischer_Gauls.bib
+bibFileChkSum: 0aabf7650b1d841e5b32af8584c1cb9e
+readmeFile: README.md
+changelogFile: CHANGELOG.md
