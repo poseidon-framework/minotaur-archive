@@ -6,10 +6,10 @@ contributor:
 - name: Thiseas C. Lamnidis
   email: thiseas_christos_lamnidis@eva.mpg.de
   orcid: 0000-0003-4485-8570
-- name: Luca Berndt Thale-Bombien
+- name: Luca Thale-Bombien
   email: luca_thale_bombien@eva.mpg.de
-packageVersion: 0.1.7
-lastModified: 2024-12-06
+packageVersion: 1.0.0
+lastModified: 2024-12-10
 genotypeData:
   format: PLINK
   genoFile: 2022_Fischer_Gauls.bed

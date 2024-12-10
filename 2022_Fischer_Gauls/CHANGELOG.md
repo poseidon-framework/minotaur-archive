@@ -1,3 +1,4 @@
+- V 1.0.0: Bump version for release
 - V 0.1.7: Update bibFile: pretty print
 - V 0.1.6: Add contributor
 - V 0.1.5: Remove empty columns from janno
