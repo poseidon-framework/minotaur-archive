@@ -1,3 +1,4 @@
+- V 0.2.4: Add kinship information. Minor changes to dating information.
 - V 0.2.3: Add BibTex info. Add description.
 - V 0.2.2: Add Country_ISO information
 - V 0.2.1: Fill-in metadata from community-archive: 2020_Nagele_Caribbean-2.2.0
