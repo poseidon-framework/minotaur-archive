@@ -4,8 +4,8 @@ description: Genomic insights into the early peopling of the Caribbean
 contributor:
 - name: Thiseas C. Lamnidis
   email: thiseas_christos_lamnidis@eva.mpg.de
-packageVersion: 0.2.5
-lastModified: 2024-12-11
+packageVersion: 1.0.0
+lastModified: 2024-12-17
 genotypeData:
   format: PLINK
   genoFile: 2020_Nagele_Caribbean.bed
