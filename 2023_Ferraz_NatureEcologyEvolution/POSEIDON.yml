@@ -5,19 +5,19 @@ contributor:
 - name: Thiseas C. Lamnidis
   email: thiseas_christos_lamnidis@eva.mpg.de
 packageVersion: 0.2.0
-lastModified: 2024-11-22
+lastModified: 2024-12-13
 genotypeData:
   format: PLINK
   genoFile: 2023_Ferraz_NatureEcologyEvolution.bed
-  genoFileChkSum: 80cf245e3d5c18b67b136b41762723c2
+  genoFileChkSum: 41f64d7dca8f3dbcbccaf99b2d456aa2
   snpFile: 2023_Ferraz_NatureEcologyEvolution.bim
   snpFileChkSum: 433fa85a23f3123bade02348e4628b75
   indFile: 2023_Ferraz_NatureEcologyEvolution.fam
-  indFileChkSum: 50dda284fc7d8975726fac403cf84001
+  indFileChkSum: 6b8c698db9ab08287c842b8d6516d4e2
   snpSet: 1240K
 jannoFile: 2023_Ferraz_NatureEcologyEvolution.janno
-jannoFileChkSum: 31796e4058e672c6c2dc775666face42
+jannoFileChkSum: f3d3b9588d56cc70561c1cb5301d193e
 sequencingSourceFile: 2023_Ferraz_NatureEcologyEvolution.ssf
-sequencingSourceFileChkSum: c472418b35efb0c3b9b3f8f3503a1309
+sequencingSourceFileChkSum: a00efeb96763bbfa1356954c00ba3174
 readmeFile: README.md
 changelogFile: CHANGELOG.md
