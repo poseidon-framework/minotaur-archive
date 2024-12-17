@@ -1,0 +1,9 @@
+- V 1.0.0: Bump version for release
+- V 0.2.5: Update bibFile
+- V 0.2.4: Add kinship information. Minor changes to dating information.
+- V 0.2.3: Add BibTex info. Add description.
+- V 0.2.2: Add Country_ISO information
+- V 0.2.1: Fill-in metadata from community-archive: 2020_Nagele_Caribbean-2.2.0
+- V 0.2.0: Rearrange Poseidon_IDs alphabetically.
+- V 0.1.2: Automatic update of janno file from Minotaur processing.
+- V 0.1.1: Added self as contributor to package.

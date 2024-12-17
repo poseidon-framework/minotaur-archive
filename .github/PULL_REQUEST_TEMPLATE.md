@@ -11,10 +11,13 @@ PR checklist:
  - If this package already exists in the [community archive](https://github.com/poseidon-framework/community-archive):
    - [ ] The information from the community archive was used to fill-in empty janno fields.
    - [ ] The commands used for the fill-in and any tool versions are kept track of in the README file.
+   - [ ] The BibTex key used for the citation is _identical_ to that in the corresponding package in the community archive.
+   - [ ] The DOI in the BibTex file is _identical_ to the one used in the corresponding package in the comunity archive.
 - [ ] `Country` information is also present in the `Country_ISO` column.
+- [ ] Add any additional contributors to `POSEIDON.yml`
 
-Once the Pull Request has passed the review process, ensure the pacakge version is bumped once more before publishing with:
+Once the Pull Request has passed the review process, ensure the package version is bumped once more before publishing with:
 
 ```
-trident rectify -d <package_dir> --logText 'Bump version for release' --packageVersionMajor --checksumAll
+trident rectify -d <package_dir> --logText 'Bump version for release' --packageVersion Major --checksumAll
 ```
