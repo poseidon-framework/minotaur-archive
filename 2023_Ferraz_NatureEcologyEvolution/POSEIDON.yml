@@ -15,10 +15,10 @@ genotypeData:
   snpFile: 2023_Ferraz_NatureEcologyEvolution.bim
   snpFileChkSum: 433fa85a23f3123bade02348e4628b75
   indFile: 2023_Ferraz_NatureEcologyEvolution.fam
-  indFileChkSum: 6b8c698db9ab08287c842b8d6516d4e2
+  indFileChkSum: b59de35142b2831413188ed8f22f1d4a
   snpSet: 1240K
 jannoFile: 2023_Ferraz_NatureEcologyEvolution.janno
-jannoFileChkSum: f3d3b9588d56cc70561c1cb5301d193e
+jannoFileChkSum: 93b7f47e78262c97906e0db9d4d26f01
 sequencingSourceFile: 2023_Ferraz_NatureEcologyEvolution.ssf
 sequencingSourceFileChkSum: a00efeb96763bbfa1356954c00ba3174
 readmeFile: README.md
