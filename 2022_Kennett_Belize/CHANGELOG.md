@@ -1,3 +1,4 @@
+- V 0.2.1: Add janno info collected by @Kavlahkaff. Mirror info to fam file.Add @Kavlahkaff as Contributor.
 - V 0.2.0: Rearrange Poseidon_IDs alphabetically.
 - V 0.1.2: Automatic update of janno file from Minotaur processing.
 - V 0.1.1: Added self as contributor to package.
