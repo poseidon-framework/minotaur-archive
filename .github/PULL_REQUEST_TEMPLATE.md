@@ -9,12 +9,16 @@ PR checklist:
 
 - [ ] This package contains a BibTex file.
  - If this package already exists in the [community archive](https://github.com/poseidon-framework/community-archive):
-   - [ ] The information from the community archive was used to fill-in empty janno fields.
+   - [ ] The information from the community archive was used to fill-in empty janno fields (if applicable).
    - [ ] The commands used for the fill-in and any tool versions are kept track of in the README file.
    - [ ] The BibTex key used for the citation is _identical_ to that in the corresponding package in the community archive.
    - [ ] The DOI in the BibTex file is _identical_ to the one used in the corresponding package in the comunity archive.
+ - If the janno information was collected manually:
+   - [ ] Add any additional contributors to `POSEIDON.yml`
+- [ ] Any scripts/commands used to prepare the pacakge are kept track of in the README file.
 - [ ] `Country` information is also present in the `Country_ISO` column.
-- [ ] Add any additional contributors to `POSEIDON.yml`
+- [ ] Any columns in the janno that are entirely missing or `n/a` should be removed from the janno.
+
 
 Once the Pull Request has passed the review process, ensure the package version is bumped once more before publishing with:
 
