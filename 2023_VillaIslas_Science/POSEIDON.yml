@@ -21,7 +21,7 @@ genotypeData:
   indFileChkSum: 5a0ebba47a881c66c4d5a5e12a94f6cc
   snpSet: 1240K
 jannoFile: 2023_VillaIslas_Science.janno
-jannoFileChkSum: 9a6f3f3d588a44e2af6ca66d531fcddd
+jannoFileChkSum: 760e49a27f76f6709a1118226b07da6f
 sequencingSourceFile: 2023_VillaIslas_Science.ssf
 sequencingSourceFileChkSum: 7b18559a4174c9044f5c2b1b277d0a74
 bibFile: 2023_VillaIslas_Science.bib
