@@ -1,6 +1,7 @@
 poseidonVersion: 2.7.1
 title: 2023_VillaIslas_Science
-description: Empty package template. Please add a description
+description: Demographic history and genetic structure in pre-Hispanic Central
+  Mexico
 contributor:
 - name: Thiseas C. Lamnidis
   email: thiseas_christos_lamnidis@eva.mpg.de
@@ -20,8 +21,10 @@ genotypeData:
   indFileChkSum: 5a0ebba47a881c66c4d5a5e12a94f6cc
   snpSet: 1240K
 jannoFile: 2023_VillaIslas_Science.janno
-jannoFileChkSum: ea0d9e6182117496cb53bebf39ce6c3e
+jannoFileChkSum: 9a6f3f3d588a44e2af6ca66d531fcddd
 sequencingSourceFile: 2023_VillaIslas_Science.ssf
 sequencingSourceFileChkSum: 7b18559a4174c9044f5c2b1b277d0a74
+bibFile: 2023_VillaIslas_Science.bib
+bibFileChkSum: 6c47958964287a182bc093d621ad16a1
 readmeFile: README.md
 changelogFile: CHANGELOG.md
