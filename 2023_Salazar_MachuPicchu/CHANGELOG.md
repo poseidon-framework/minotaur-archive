@@ -1,3 +1,4 @@
+- V 1.0.1: Correct package description
 - V 1.0.0: Bump version for release
 - V 0.2.3: Remove empty janno columns
 - V 0.2.2: Add BibFile and publication info

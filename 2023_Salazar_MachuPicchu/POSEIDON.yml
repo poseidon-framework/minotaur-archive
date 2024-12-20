@@ -1,11 +1,11 @@
 poseidonVersion: 2.7.1
 title: 2023_Salazar_MachuPicchu
-description: Empty package template. Please add a description
+description: Insights into the genetic histories and lifeways of Machu Picchu's occupants
 contributor:
 - name: Thiseas C. Lamnidis
   email: thiseas_christos_lamnidis@eva.mpg.de
-packageVersion: 1.0.0
-lastModified: 2024-12-06
+packageVersion: 1.0.1
+lastModified: 2024-12-20
 genotypeData:
   format: PLINK
   genoFile: 2023_Salazar_MachuPicchu.bed
