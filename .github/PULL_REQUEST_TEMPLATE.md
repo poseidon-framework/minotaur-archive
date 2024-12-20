@@ -7,6 +7,7 @@ New packages added to the [minotaur archive](https://github.com/poseidon-framewo
 
 PR checklist:
 
+- [ ] The package description has been updated to the title of the paper.
 - [ ] This package contains a BibTex file.
  - If this package already exists in the [community archive](https://github.com/poseidon-framework/community-archive):
    - [ ] The information from the community archive was used to fill-in empty janno fields (if applicable).
