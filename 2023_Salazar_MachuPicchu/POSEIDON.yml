@@ -1,0 +1,25 @@
+poseidonVersion: 2.7.1
+title: 2023_Salazar_MachuPicchu
+description: Insights into the genetic histories and lifeways of Machu Picchu's occupants
+contributor:
+- name: Thiseas C. Lamnidis
+  email: thiseas_christos_lamnidis@eva.mpg.de
+packageVersion: 1.0.1
+lastModified: 2024-12-20
+genotypeData:
+  format: PLINK
+  genoFile: 2023_Salazar_MachuPicchu.bed
+  genoFileChkSum: 97f258ab42087b1906d212517b0cca89
+  snpFile: 2023_Salazar_MachuPicchu.bim
+  snpFileChkSum: 433fa85a23f3123bade02348e4628b75
+  indFile: 2023_Salazar_MachuPicchu.fam
+  indFileChkSum: 4f17963dddce26ffe81f56a01563decf
+  snpSet: 1240K
+jannoFile: 2023_Salazar_MachuPicchu.janno
+jannoFileChkSum: 7baf37a47344d972a433090a0a030fce
+sequencingSourceFile: 2023_Salazar_MachuPicchu.ssf
+sequencingSourceFileChkSum: 07d1d6ce1b8e976615cf530e543075bb
+bibFile: 2023_Salazar_MachuPicchu.bib
+bibFileChkSum: efbcf469f724eba20acfa0d4c8425b26
+readmeFile: README.md
+changelogFile: CHANGELOG.md

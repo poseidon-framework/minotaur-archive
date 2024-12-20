@@ -1,0 +1,8 @@
+- V 2.0.0: Updated package contents due to reprocessing of sequence data
+- V 1.0.0: Bump version for release
+- V 0.2.0: Arranged Poseidon_IDs alphabetically
+- V 0.1.5: Fill Lon/Lat, mtDNA/Y haplos, Country_ISO, Publication columns
+- V 0.1.4: Update Genetic_Sex from sexdeterrmine results
+- V 0.1.3: Fill-in metadata from community-archive: 2020_Bongers_SouthPeru-2.2.0
+- V 0.1.2: Add BibTex info. Add contributor. Add description.
+- V 0.1.1: Automatic update of janno file from Minotaur processing.
