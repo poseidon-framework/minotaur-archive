@@ -1,3 +1,4 @@
+- V 0.2.6: Correct Location and Site columns. Remove empty columns.
 - V 0.2.5: Add Country_ISO information
 - V 0.2.4: Tweak Group_Names. Add Group_Name and Genetic_Sex of ID not in community archive. Add kinship information.
 - V 0.2.3: Fill-in metadata from community-archive: 2021_Yaka_Anatolia-0.2.1
