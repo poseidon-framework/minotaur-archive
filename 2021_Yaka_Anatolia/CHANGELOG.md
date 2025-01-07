@@ -1,3 +1,4 @@
+- V 0.2.3: Fill-in metadata from community-archive: 2021_Yaka_Anatolia-0.2.1
 - V 0.2.2: Correct bib key name.
 - V 0.2.1: Add bibFile and Publication info.
 - V 0.2.0: Rearrange Poseidon_IDs alphabetically.
