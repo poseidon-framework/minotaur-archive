@@ -1,0 +1,23 @@
+poseidonVersion: 2.7.1
+title: 2021_Yaka_Anatolia
+description: Empty package template. Please add a description
+contributor:
+- name: Thiseas C. Lamnidis
+  email: thiseas_christos_lamnidis@eva.mpg.de
+packageVersion: 0.2.0
+lastModified: 2025-01-07
+genotypeData:
+  format: PLINK
+  genoFile: 2021_Yaka_Anatolia.bed
+  genoFileChkSum: e2e967a7df7ad16acb1d797882cbc752
+  snpFile: 2021_Yaka_Anatolia.bim
+  snpFileChkSum: 433fa85a23f3123bade02348e4628b75
+  indFile: 2021_Yaka_Anatolia.fam
+  indFileChkSum: deda505030a1d2fec9b90d461d0e4406
+  snpSet: 1240K
+jannoFile: 2021_Yaka_Anatolia.janno
+jannoFileChkSum: 956855526665a1b4e68116f33a8274bf
+sequencingSourceFile: 2021_Yaka_Anatolia.ssf
+sequencingSourceFileChkSum: 9723314e4b024ede354b10c5bcbb4694
+readmeFile: README.md
+changelogFile: CHANGELOG.md
