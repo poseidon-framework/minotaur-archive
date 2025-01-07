@@ -1,3 +1,4 @@
+- V 0.2.2: Correct bib key name.
 - V 0.2.1: Add bibFile and Publication info.
 - V 0.2.0: Rearrange Poseidon_IDs alphabetically.
 - V 0.1.2: Automatic update of janno file from Minotaur processing.

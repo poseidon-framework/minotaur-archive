@@ -4,7 +4,7 @@ description: Variable kinship patterns in Neolithic Anatolia revealed by ancient
 contributor:
 - name: Thiseas C. Lamnidis
   email: thiseas_christos_lamnidis@eva.mpg.de
-packageVersion: 0.2.1
+packageVersion: 0.2.2
 lastModified: 2025-01-07
 genotypeData:
   format: PLINK
@@ -16,10 +16,10 @@ genotypeData:
   indFileChkSum: deda505030a1d2fec9b90d461d0e4406
   snpSet: 1240K
 jannoFile: 2021_Yaka_Anatolia.janno
-jannoFileChkSum: 607afea3fc167e63213cf2d91e055e1a
+jannoFileChkSum: df42ecdde53da0925258bd28a8605e51
 sequencingSourceFile: 2021_Yaka_Anatolia.ssf
 sequencingSourceFileChkSum: 9723314e4b024ede354b10c5bcbb4694
 bibFile: 2021_Yaka_Anatolia.bib
-bibFileChkSum: 1b6bc291804f374d6a39244c4ae7c5c8
+bibFileChkSum: 21618c46df70536ea51e35608fe0594e
 readmeFile: README.md
 changelogFile: CHANGELOG.md
