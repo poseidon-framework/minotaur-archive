@@ -1,10 +1,11 @@
 poseidonVersion: 2.7.1
 title: 2024_Sasso_PNAS
-description: Empty package template. Please add a description
+description: Capturing the fusion of two ancestries and kinship structures in Merovingian
+  Flanders
 contributor:
 - name: Thiseas C. Lamnidis
   email: thiseas_christos_lamnidis@eva.mpg.de
-packageVersion: 0.2.0
+packageVersion: 0.2.1
 lastModified: 2025-01-07
 genotypeData:
   format: PLINK
@@ -16,8 +17,10 @@ genotypeData:
   indFileChkSum: 86af35e6fa9af2828f3f339e89489323
   snpSet: 1240K
 jannoFile: 2024_Sasso_PNAS.janno
-jannoFileChkSum: ed13e8060682a5826e476a07370ab2ca
+jannoFileChkSum: bf90d3898f22c1f1bdf558abd116904e
 sequencingSourceFile: 2024_Sasso_PNAS.ssf
 sequencingSourceFileChkSum: 3b370925b3dca1b31754a5156fd038e8
+bibFile: 2024_Sasso_PNAS.bib
+bibFileChkSum: a05e0d7490caabe79106b77bbafaa695
 readmeFile: README.md
 changelogFile: CHANGELOG.md
