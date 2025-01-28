@@ -1,3 +1,4 @@
+- V 0.2.8: Update Source_Tissue formatting
 - V 0.2.7: Add Y_Haplogroup info from Table Z2. Add Collection ID and C14 info for Ash033.
 - V 0.2.6: Correct Location and Site columns. Remove empty columns.
 - V 0.2.5: Add Country_ISO information
