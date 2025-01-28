@@ -1,3 +1,4 @@
+- V 0.2.2: Fix Date_Note. Fix Publication bibTex key. Only ASCII characters in Group_Name.
 - V 0.3.0: Removed empty columns from janno
 - V 0.2.2: Add bibFile and Publication info. Update package description.
 - V 0.2.1: Add janno info collected by @Kavlahkaff and @jbv2. Mirror info to fam file. Add @Kavlahkaff, @jbv2 as Contributors.

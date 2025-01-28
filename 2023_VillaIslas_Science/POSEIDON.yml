@@ -1,7 +1,6 @@
 poseidonVersion: 2.7.1
 title: 2023_VillaIslas_Science
-description: Demographic history and genetic structure in pre-Hispanic Central
-  Mexico
+description: Demographic history and genetic structure in pre-Hispanic Central Mexico
 contributor:
 - name: Thiseas C. Lamnidis
   email: thiseas_christos_lamnidis@eva.mpg.de
@@ -9,8 +8,8 @@ contributor:
   email: luca_thale_bombien@eva.mpg.de
 - name: Judith Ballesteros Villascán
   email: judith_ballesteros@eva.mpg.de
-packageVersion: 0.2.1
-lastModified: 2024-12-20
+packageVersion: 0.2.2
+lastModified: 2025-01-28
 genotypeData:
   format: PLINK
   genoFile: 2023_VillaIslas_Science.bed
@@ -18,13 +17,13 @@ genotypeData:
   snpFile: 2023_VillaIslas_Science.bim
   snpFileChkSum: 433fa85a23f3123bade02348e4628b75
   indFile: 2023_VillaIslas_Science.fam
-  indFileChkSum: 5a0ebba47a881c66c4d5a5e12a94f6cc
+  indFileChkSum: 39f932695e575900814aa13ad3ce587c
   snpSet: 1240K
 jannoFile: 2023_VillaIslas_Science.janno
-jannoFileChkSum: 760e49a27f76f6709a1118226b07da6f
+jannoFileChkSum: ac2f3bab0605b3ea01b2baf1061163a4
 sequencingSourceFile: 2023_VillaIslas_Science.ssf
 sequencingSourceFileChkSum: 7b18559a4174c9044f5c2b1b277d0a74
 bibFile: 2023_VillaIslas_Science.bib
-bibFileChkSum: 6c47958964287a182bc093d621ad16a1
+bibFileChkSum: 683a2df13ad9210fb73c7dbdad88a91b
 readmeFile: README.md
 changelogFile: CHANGELOG.md
