@@ -1,0 +1,28 @@
+poseidonVersion: 2.7.1
+title: 2022_Kennett_Belize
+description: South-to-north migration preceded the advent of intensive farming in
+  the Maya region
+contributor:
+- name: Thiseas C. Lamnidis
+  email: thiseas_christos_lamnidis@eva.mpg.de
+- name: Luca Thale-Bombien
+  email: luca_thale_bombien@eva.mpg.de
+packageVersion: 1.0.0
+lastModified: 2024-12-20
+genotypeData:
+  format: PLINK
+  genoFile: 2022_Kennett_Belize.bed
+  genoFileChkSum: 88adc1ab1cb952796e4ea50e6f34cd9c
+  snpFile: 2022_Kennett_Belize.bim
+  snpFileChkSum: 433fa85a23f3123bade02348e4628b75
+  indFile: 2022_Kennett_Belize.fam
+  indFileChkSum: cef50ec1c38fb84cde37d65e8a7cd57b
+  snpSet: 1240K
+jannoFile: 2022_Kennett_Belize.janno
+jannoFileChkSum: 8246f6325097954ebc31f128725508af
+sequencingSourceFile: 2022_Kennett_Belize.ssf
+sequencingSourceFileChkSum: 7c8e65c0edad90b85c84ce119d37f9ba
+bibFile: 2022_Kennett_Belize.bib
+bibFileChkSum: 17f919b194b2ae1d349af533fd870461
+readmeFile: README.md
+changelogFile: CHANGELOG.md
