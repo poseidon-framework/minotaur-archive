@@ -4,8 +4,12 @@ description: Empty package template. Please add a description
 contributor:
 - name: Thiseas C. Lamnidis
   email: thiseas_christos_lamnidis@eva.mpg.de
-packageVersion: 0.3.2
-lastModified: 2025-01-28
+- name: Luca Thale-Bombien
+  email: luca_thale_bombien@eva.mpg.de
+- name: Ronan O'Sullivan
+  email: ronan.osullivan@utu.fi
+packageVersion: 0.3.3
+lastModified: 2025-01-30
 genotypeData:
   format: PLINK
   genoFile: 2023_RodriguezVarela_Scandinavia.bed
@@ -13,10 +17,10 @@ genotypeData:
   snpFile: 2023_RodriguezVarela_Scandinavia.bim
   snpFileChkSum: 433fa85a23f3123bade02348e4628b75
   indFile: 2023_RodriguezVarela_Scandinavia.fam
-  indFileChkSum: 6bd852a627427cf2d2fc0eed7198775e
+  indFileChkSum: 538d13bc1499e4784f60a9b2ebbbdde8
   snpSet: 1240K
 jannoFile: 2023_RodriguezVarela_Scandinavia.janno
-jannoFileChkSum: 7a431e5ce2819b0907cd36e70f632d95
+jannoFileChkSum: b9ee7b1aacea1d516339662595901ce7
 sequencingSourceFile: 2023_RodriguezVarela_Scandinavia.ssf
 sequencingSourceFileChkSum: 396d73526ca544260d49498bd026a26f
 bibFile: 2023_RodriguezVarela_Scandinavia.bib

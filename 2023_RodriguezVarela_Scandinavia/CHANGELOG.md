@@ -1,3 +1,4 @@
+- V 0.3.3: Add janno info collected by @Kavlahkaff and @TCLamnidis
 - V 0.3.2: Add KrzewinskaCurrentBiology2018 to bib and Publication
 - V 0.3.1: Fill-in metadata from remote-janno: https://raw.githubusercontent.com/poseidon-framework/community-archive/0e0b80386996f718bb6f825cae97467397ac6ad8/2023_Rodriguez_Varela/2023_RodriguezVarela_Scandinavia.janno
 - V 0.3.0: Added Publication info
