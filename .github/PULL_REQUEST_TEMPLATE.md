@@ -17,6 +17,7 @@ PR checklist:
    - [ ] The DOI in the BibTex file is _identical_ to the one used in the corresponding package in the community archive.
 - [ ] `Country` information is also present in the `Country_ISO` column.
 - [ ] Poseidon_IDs in the `Relation_To` column contain the `_MNT` suffix.
+- [ ] Columns that are entirely empty have been removed from the janno file.
 
 Once the Pull Request has passed the review process, ensure the package version is bumped once more before publishing with:
 
