@@ -8,7 +8,7 @@ contributor:
   email: luca_thale_bombien@eva.mpg.de
 - name: Ronan O'Sullivan
   email: ronan.osullivan@utu.fi
-packageVersion: 0.3.3
+packageVersion: 0.3.4
 lastModified: 2025-01-30
 genotypeData:
   format: PLINK
@@ -20,7 +20,7 @@ genotypeData:
   indFileChkSum: 538d13bc1499e4784f60a9b2ebbbdde8
   snpSet: 1240K
 jannoFile: 2023_RodriguezVarela_Scandinavia.janno
-jannoFileChkSum: b9ee7b1aacea1d516339662595901ce7
+jannoFileChkSum: 4313b672476638284ac553281e679399
 sequencingSourceFile: 2023_RodriguezVarela_Scandinavia.ssf
 sequencingSourceFileChkSum: 396d73526ca544260d49498bd026a26f
 bibFile: 2023_RodriguezVarela_Scandinavia.bib
