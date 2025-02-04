@@ -5,8 +5,8 @@ contributor:
 - name: Thiseas C. Lamnidis
   email: thiseas_christos_lamnidis@eva.mpg.de
   orcid: 0000-0003-4485-8570
-packageVersion: 1.0.0
-lastModified: 2024-07-17
+packageVersion: 1.0.1
+lastModified: 2025-02-04
 genotypeData:
   format: PLINK
   genoFile: 2023_Peltola_VolgaOka.bed
@@ -17,7 +17,7 @@ genotypeData:
   indFileChkSum: a041f19a260ec02b0830a1bb1babf737
   snpSet: 1240K
 jannoFile: 2023_Peltola_VolgaOka.janno
-jannoFileChkSum: 5317113bb7f41faf98f4790a9194dab3
+jannoFileChkSum: 364f09b8cf9bfd1bf4e51318ae2f9c3e
 sequencingSourceFile: 2023_Peltola_VolgaOka.ssf
 sequencingSourceFileChkSum: 6390baaa7ddfd224306a3c4588909e7e
 bibFile: 2023_Peltola_VolgaOka.bib
