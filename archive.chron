@@ -1,6 +1,6 @@
 title: Poseidon minotaur-archive chronicle
-chronicleVersion: 1.11.0
-lastModified: 2024-12-20
+chronicleVersion: 1.12.0
+lastModified: 2025-02-04
 packages:
 - title: 2020_Bongers_SouthPeru
   version: 1.0.0
@@ -34,6 +34,10 @@ packages:
   version: 1.0.1
   commit: 7b598465b8637841f554b84cd1fc43af84a329b1
   path: 2021_Saag_EastEuropean
+- title: 2021_Yaka_Anatolia
+  version: 0.2.8
+  commit: 16e6640c2ae835ffaefb19b9de892aabcbb8d8e8
+  path: 2021_Yaka_Anatolia
 - title: 2022_Fischer_Gauls
   version: 1.0.0
   commit: 95c567d84440cb8763c02402fa9a5c855e960135
