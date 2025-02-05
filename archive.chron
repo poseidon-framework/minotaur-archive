@@ -1,6 +1,6 @@
 title: Poseidon minotaur-archive chronicle
-chronicleVersion: 1.12.0
-lastModified: 2025-02-04
+chronicleVersion: 1.13.0
+lastModified: 2025-02-05
 packages:
 - title: 2020_Bongers_SouthPeru
   version: 1.0.0
@@ -17,6 +17,10 @@ packages:
 - title: 2020_Nagele_Caribbean
   version: 1.0.0
   commit: 8996c446b005747e0447c60496ff5b702751f625
+  path: 2020_Nagele_Caribbean
+- title: 2020_Nagele_Caribbean
+  version: 1.0.1
+  commit: bdfd793437e2a1005b7231a9b1a18e7a577d2be5
   path: 2020_Nagele_Caribbean
 - title: 2021_CarlhoffNature
   version: 1.0.0
@@ -53,6 +57,10 @@ packages:
 - title: 2023_Peltola_VolgaOka
   version: 1.0.0
   commit: 2ea9212f1173325fe08958171c751a7f6494daed
+  path: 2023_Peltola_VolgaOka
+- title: 2023_Peltola_VolgaOka
+  version: 1.0.1
+  commit: bdfd793437e2a1005b7231a9b1a18e7a577d2be5
   path: 2023_Peltola_VolgaOka
 - title: 2023_Salazar_MachuPicchu
   version: 1.0.0
