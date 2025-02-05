@@ -1,3 +1,4 @@
+- V 1.0.1: Correct Relation_To column formatting
 - V 1.0.0: Bump version for release
 - V 0.2.0: Arranged Poseidon_IDs alphabetically
 - V 0.1.4: Add Country_ISO information
