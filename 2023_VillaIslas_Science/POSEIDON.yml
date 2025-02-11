@@ -8,7 +8,7 @@ contributor:
   email: luca_thale_bombien@eva.mpg.de
 - name: Judith Ballesteros Villascán
   email: judith_ballesteros@eva.mpg.de
-packageVersion: 0.2.3
+packageVersion: 1.0.0
 lastModified: 2025-02-11
 genotypeData:
   format: PLINK
