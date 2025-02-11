@@ -1,3 +1,4 @@
+- V 1.0.1: Correct Relation_To column formatting
 - V 1.0.0: Bump version for release
 - V 0.2.5: Update bibFile
 - V 0.2.4: Add kinship information. Minor changes to dating information.

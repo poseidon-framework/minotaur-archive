@@ -1,6 +1,6 @@
 title: Poseidon minotaur-archive chronicle
-chronicleVersion: 1.11.0
-lastModified: 2024-12-20
+chronicleVersion: 1.13.0
+lastModified: 2025-02-05
 packages:
 - title: 2020_Bongers_SouthPeru
   version: 1.0.0
@@ -18,6 +18,10 @@ packages:
   version: 1.0.0
   commit: 8996c446b005747e0447c60496ff5b702751f625
   path: 2020_Nagele_Caribbean
+- title: 2020_Nagele_Caribbean
+  version: 1.0.1
+  commit: bdfd793437e2a1005b7231a9b1a18e7a577d2be5
+  path: 2020_Nagele_Caribbean
 - title: 2021_CarlhoffNature
   version: 1.0.0
   commit: fa09bafe346791c1cba137b8afc905f9fdbb6a17
@@ -34,6 +38,10 @@ packages:
   version: 1.0.1
   commit: 7b598465b8637841f554b84cd1fc43af84a329b1
   path: 2021_Saag_EastEuropean
+- title: 2021_Yaka_Anatolia
+  version: 0.2.8
+  commit: 16e6640c2ae835ffaefb19b9de892aabcbb8d8e8
+  path: 2021_Yaka_Anatolia
 - title: 2022_Fischer_Gauls
   version: 1.0.0
   commit: 95c567d84440cb8763c02402fa9a5c855e960135
@@ -49,6 +57,10 @@ packages:
 - title: 2023_Peltola_VolgaOka
   version: 1.0.0
   commit: 2ea9212f1173325fe08958171c751a7f6494daed
+  path: 2023_Peltola_VolgaOka
+- title: 2023_Peltola_VolgaOka
+  version: 1.0.1
+  commit: bdfd793437e2a1005b7231a9b1a18e7a577d2be5
   path: 2023_Peltola_VolgaOka
 - title: 2023_Salazar_MachuPicchu
   version: 1.0.0

@@ -1,0 +1,11 @@
+- V 0.2.8: Update Source_Tissue formatting
+- V 0.2.7: Add Y_Haplogroup info from Table Z2. Add Collection ID and C14 info for Ash033.
+- V 0.2.6: Correct Location and Site columns. Remove empty columns.
+- V 0.2.5: Add Country_ISO information
+- V 0.2.4: Tweak Group_Names. Add Group_Name and Genetic_Sex of ID not in community archive. Add kinship information.
+- V 0.2.3: Fill-in metadata from community-archive: 2021_Yaka_Anatolia-0.2.1
+- V 0.2.2: Correct bib key name.
+- V 0.2.1: Add bibFile and Publication info.
+- V 0.2.0: Rearrange Poseidon_IDs alphabetically.
+- V 0.1.2: Automatic update of janno file from Minotaur processing.
+- V 0.1.1: Added self as contributor to package.
