@@ -8,8 +8,8 @@ contributor:
   email: luca_thale_bombien@eva.mpg.de
 - name: Judith Ballesteros Villascán
   email: judith_ballesteros@eva.mpg.de
-packageVersion: 0.2.2
-lastModified: 2025-01-28
+packageVersion: 0.2.3
+lastModified: 2025-02-11
 genotypeData:
   format: PLINK
   genoFile: 2023_VillaIslas_Science.bed
@@ -20,7 +20,7 @@ genotypeData:
   indFileChkSum: 39f932695e575900814aa13ad3ce587c
   snpSet: 1240K
 jannoFile: 2023_VillaIslas_Science.janno
-jannoFileChkSum: ac2f3bab0605b3ea01b2baf1061163a4
+jannoFileChkSum: a3affe83e54221e6372720281256c2e2
 sequencingSourceFile: 2023_VillaIslas_Science.ssf
 sequencingSourceFileChkSum: 7b18559a4174c9044f5c2b1b277d0a74
 bibFile: 2023_VillaIslas_Science.bib

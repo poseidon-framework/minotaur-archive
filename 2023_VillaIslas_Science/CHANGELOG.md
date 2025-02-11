@@ -1,3 +1,4 @@
+- V 0.2.3: Update Y_Haplogroup column formatting
 - V 0.2.2: Fix Date_Note. Fix Publication bibTex key. Only ASCII characters in Group_Name.
 - V 0.3.0: Removed empty columns from janno
 - V 0.2.2: Add bibFile and Publication info. Update package description.
