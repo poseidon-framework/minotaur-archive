@@ -1,0 +1,9 @@
+- V 1.0.0: Bump version for release
+- V 0.2.3: Update Y_Haplogroup column formatting
+- V 0.2.2: Fix Date_Note. Fix Publication bibTex key. Only ASCII characters in Group_Name.
+- V 0.3.0: Removed empty columns from janno
+- V 0.2.2: Add bibFile and Publication info. Update package description.
+- V 0.2.1: Add janno info collected by @Kavlahkaff and @jbv2. Mirror info to fam file. Add @Kavlahkaff, @jbv2 as Contributors.
+- V 0.2.0: Rearrange Poseidon_IDs alphabetically.
+- V 0.1.2: Automatic update of janno file from Minotaur processing.
+- V 0.1.1: Added self as contributor to package.

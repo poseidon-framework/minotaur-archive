@@ -1,3 +1,4 @@
+- V 1.0.1: changed month field
 - V 1.0.0: Bump version for release.
 - V 0.1.5: Add description. mark XXY individual in Notes
 - V 0.1.4: Update contributor info.

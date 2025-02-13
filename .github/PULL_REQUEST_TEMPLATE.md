@@ -11,6 +11,7 @@ PR checklist:
 
 - [ ] The package description has been updated to the title of the paper.
 - [ ] This package contains a BibTex file.
+ - [ ] The month field in the BibTex file is formatted as a three letter code.
  - If this package already exists in the [community archive](https://github.com/poseidon-framework/community-archive):
    - [ ] The information from the community archive was used to fill-in empty janno fields (if applicable).
    - [ ] The commands used for the fill-in and any tool versions are kept track of in the README file.
