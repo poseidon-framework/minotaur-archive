@@ -6,7 +6,7 @@ contributor:
   email: thiseas_christos_lamnidis@eva.mpg.de
 - name: Luca Thale-Bombien
   email: luca_thale_bombien@eva.mpg.de
-packageVersion: 0.3.3
+packageVersion: 1.0.0
 lastModified: 2025-02-13
 genotypeData:
   format: PLINK

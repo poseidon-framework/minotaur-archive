@@ -1,3 +1,4 @@
+- V 1.0.0: Bump version for release
 - V 0.3.3: Remove empty columns. Reformat Y_Heplogroups to Yfull notation
 - V 0.3.2: Fix Publication bibTex key. Only ASCII characters in Group_Name.
 - V 0.3.1: Add bibFile and Publication info.
