@@ -1,3 +1,4 @@
+- V 0.3.5: Reformat Y_Heplogroups to Yfull notation
 - V 0.3.4: Add Alternative_IDs for NUF. Remove empty columns from janno.
 - V 0.3.3: Add janno info collected by @Kavlahkaff and @TCLamnidis
 - V 0.3.2: Add KrzewinskaCurrentBiology2018 to bib and Publication
