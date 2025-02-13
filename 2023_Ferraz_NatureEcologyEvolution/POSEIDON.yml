@@ -6,8 +6,8 @@ contributor:
   email: thiseas_christos_lamnidis@eva.mpg.de
 - name: Luca Thale-Bombien
   email: luca_thale_bombien@eva.mpg.de
-packageVersion: 0.3.2
-lastModified: 2025-01-28
+packageVersion: 0.3.3
+lastModified: 2025-02-13
 genotypeData:
   format: PLINK
   genoFile: 2023_Ferraz_NatureEcologyEvolution.bed
@@ -18,7 +18,7 @@ genotypeData:
   indFileChkSum: de3a59091e85813b99002e0333707ef9
   snpSet: 1240K
 jannoFile: 2023_Ferraz_NatureEcologyEvolution.janno
-jannoFileChkSum: ed17c686c0b50af0d191eef36e19943a
+jannoFileChkSum: 518997a6cd5c985444b1720106764f20
 sequencingSourceFile: 2023_Ferraz_NatureEcologyEvolution.ssf
 sequencingSourceFileChkSum: a00efeb96763bbfa1356954c00ba3174
 bibFile: 2023_Ferraz_NatureEcologyEvolution.bib

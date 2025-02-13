@@ -1,3 +1,4 @@
+- V 0.3.3: Remove empty columns. Reformat Y_Heplogroups to Yfull notation
 - V 0.3.2: Fix Publication bibTex key. Only ASCII characters in Group_Name.
 - V 0.3.1: Add bibFile and Publication info.
 - V 0.3.0: Add janno info collected by @Kavlahkaff. Mirror info to fam file.Add @Kavlahkaff as Contributor. Update checksums.
