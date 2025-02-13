@@ -8,8 +8,8 @@ contributor:
 - name: Daniel M. Fernendes
   email: daniel_fernandes@eva.mpg.de
   orcid: 0000-0002-7434-6552
-packageVersion: 1.0.0
-lastModified: 2024-04-18
+packageVersion: 1.0.1
+lastModified: 2025-02-07
 genotypeData:
   format: PLINK
   genoFile: 2023_OlaldeCarrion_Roman.bed
@@ -24,6 +24,6 @@ jannoFileChkSum: 8e2e805ee76f2a0f81ca60674ab51682
 sequencingSourceFile: 2023_OlaldeCarrion_Roman.ssf
 sequencingSourceFileChkSum: 924f9cd39fc87532b006dbc906e846cd
 bibFile: 2023_OlaldeCarrion_Roman.bib
-bibFileChkSum: 01dab3e98f868affc5e46a492aa6e30d
+bibFileChkSum: 09aac864f4486d3044aacf9336e15a21
 readmeFile: README.md
 changelogFile: CHANGELOG.md
