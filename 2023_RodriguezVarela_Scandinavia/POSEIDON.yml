@@ -1,6 +1,6 @@
 poseidonVersion: 2.7.1
 title: 2023_RodriguezVarela_Scandinavia
-description: Empty package template. Please add a description
+description: The genetic history of Scandinavia from the Roman Iron Age to the present
 contributor:
 - name: Thiseas C. Lamnidis
   email: thiseas_christos_lamnidis@eva.mpg.de
@@ -8,8 +8,8 @@ contributor:
   email: luca_thale_bombien@eva.mpg.de
 - name: Ronan O'Sullivan
   email: ronan.osullivan@utu.fi
-packageVersion: 0.3.5
-lastModified: 2025-02-13
+packageVersion: 0.3.6
+lastModified: 2025-02-18
 genotypeData:
   format: PLINK
   genoFile: 2023_RodriguezVarela_Scandinavia.bed
@@ -20,7 +20,7 @@ genotypeData:
   indFileChkSum: 538d13bc1499e4784f60a9b2ebbbdde8
   snpSet: 1240K
 jannoFile: 2023_RodriguezVarela_Scandinavia.janno
-jannoFileChkSum: 19e560a3c2932503642233f21171a8a2
+jannoFileChkSum: a7645485f795a480b1d8447355f7e75a
 sequencingSourceFile: 2023_RodriguezVarela_Scandinavia.ssf
 sequencingSourceFileChkSum: 396d73526ca544260d49498bd026a26f
 bibFile: 2023_RodriguezVarela_Scandinavia.bib

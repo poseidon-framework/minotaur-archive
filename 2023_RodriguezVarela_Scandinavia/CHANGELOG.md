@@ -1,3 +1,4 @@
+- V 0.3.6: Fill dating info. fill Primary contact.Update package description.
 - V 0.3.5: Reformat Y_Heplogroups to Yfull notation
 - V 0.3.4: Add Alternative_IDs for NUF. Remove empty columns from janno.
 - V 0.3.3: Add janno info collected by @Kavlahkaff and @TCLamnidis
