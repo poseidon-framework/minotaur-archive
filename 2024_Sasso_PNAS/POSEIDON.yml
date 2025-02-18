@@ -5,8 +5,10 @@ description: Capturing the fusion of two ancestries and kinship structures in Me
 contributor:
 - name: Thiseas C. Lamnidis
   email: thiseas_christos_lamnidis@eva.mpg.de
-packageVersion: 0.2.1
-lastModified: 2025-01-07
+- name: Luca Thale-Bombien
+  email: luca_thale_bombien@eva.mpg.de
+packageVersion: 0.2.2
+lastModified: 2025-02-18
 genotypeData:
   format: PLINK
   genoFile: 2024_Sasso_PNAS.bed
@@ -14,10 +16,10 @@ genotypeData:
   snpFile: 2024_Sasso_PNAS.bim
   snpFileChkSum: 433fa85a23f3123bade02348e4628b75
   indFile: 2024_Sasso_PNAS.fam
-  indFileChkSum: 86af35e6fa9af2828f3f339e89489323
+  indFileChkSum: 769f326359e98716ab0734f9ec4f692b
   snpSet: 1240K
 jannoFile: 2024_Sasso_PNAS.janno
-jannoFileChkSum: bf90d3898f22c1f1bdf558abd116904e
+jannoFileChkSum: 49cf2a67c6f0b90d53acf4779f10b145
 sequencingSourceFile: 2024_Sasso_PNAS.ssf
 sequencingSourceFileChkSum: 3b370925b3dca1b31754a5156fd038e8
 bibFile: 2024_Sasso_PNAS.bib
