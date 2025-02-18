@@ -8,7 +8,7 @@ contributor:
   email: luca_thale_bombien@eva.mpg.de
 - name: Ronan O'Sullivan
   email: ronan.osullivan@utu.fi
-packageVersion: 0.3.6
+packageVersion: 1.0.0
 lastModified: 2025-02-18
 genotypeData:
   format: PLINK
