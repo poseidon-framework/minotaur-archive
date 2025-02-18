@@ -7,7 +7,7 @@ contributor:
   email: thiseas_christos_lamnidis@eva.mpg.de
 - name: Luca Thale-Bombien
   email: luca_thale_bombien@eva.mpg.de
-packageVersion: 0.2.2
+packageVersion: 0.2.3
 lastModified: 2025-02-18
 genotypeData:
   format: PLINK
@@ -23,6 +23,6 @@ jannoFileChkSum: 49cf2a67c6f0b90d53acf4779f10b145
 sequencingSourceFile: 2024_Sasso_PNAS.ssf
 sequencingSourceFileChkSum: 3b370925b3dca1b31754a5156fd038e8
 bibFile: 2024_Sasso_PNAS.bib
-bibFileChkSum: a05e0d7490caabe79106b77bbafaa695
+bibFileChkSum: c27ff72f8d2a8c8cce635983bba3793b
 readmeFile: README.md
 changelogFile: CHANGELOG.md

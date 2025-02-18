@@ -1,3 +1,4 @@
+- V 0.2.3: Add secondary citation to BibFile.
 - V 0.2.2: Add janno info collected by @Kavlahkaff. Mirror info to fam file.
 - V 0.2.1: Add BibTex info and Publication column. Add package description.
 - V 0.2.0: Rearrange Poseidon_IDs alphabetically.
