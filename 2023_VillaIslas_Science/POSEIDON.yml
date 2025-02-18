@@ -1,0 +1,29 @@
+poseidonVersion: 2.7.1
+title: 2023_VillaIslas_Science
+description: Demographic history and genetic structure in pre-Hispanic Central Mexico
+contributor:
+- name: Thiseas C. Lamnidis
+  email: thiseas_christos_lamnidis@eva.mpg.de
+- name: Luca Thale-Bombien
+  email: luca_thale_bombien@eva.mpg.de
+- name: Judith Ballesteros Villascán
+  email: judith_ballesteros@eva.mpg.de
+packageVersion: 1.0.0
+lastModified: 2025-02-11
+genotypeData:
+  format: PLINK
+  genoFile: 2023_VillaIslas_Science.bed
+  genoFileChkSum: c48338ecae088433a01ef6a07b6843fa
+  snpFile: 2023_VillaIslas_Science.bim
+  snpFileChkSum: 433fa85a23f3123bade02348e4628b75
+  indFile: 2023_VillaIslas_Science.fam
+  indFileChkSum: 39f932695e575900814aa13ad3ce587c
+  snpSet: 1240K
+jannoFile: 2023_VillaIslas_Science.janno
+jannoFileChkSum: a3affe83e54221e6372720281256c2e2
+sequencingSourceFile: 2023_VillaIslas_Science.ssf
+sequencingSourceFileChkSum: 7b18559a4174c9044f5c2b1b277d0a74
+bibFile: 2023_VillaIslas_Science.bib
+bibFileChkSum: 683a2df13ad9210fb73c7dbdad88a91b
+readmeFile: README.md
+changelogFile: CHANGELOG.md

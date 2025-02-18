@@ -1,6 +1,6 @@
 title: Poseidon minotaur-archive chronicle
-chronicleVersion: 1.11.0
-lastModified: 2024-12-20
+chronicleVersion: 1.18.0
+lastModified: 2025-02-18
 packages:
 - title: 2020_Bongers_SouthPeru
   version: 1.0.0
@@ -10,6 +10,10 @@ packages:
   version: 2.0.0
   commit: bbdb17e36bdecdf25120c4870aa26d606f6284b2
   path: 2020_Bongers_SouthPeru
+- title: 2020_Bongers_SouthPeru
+  version: 2.0.1
+  commit: 7d9bc64aeca434a140d6d80ca4682f51a6d08101
+  path: 2020_Bongers_SouthPeru
 - title: 2020_Margaryan_Viking
   version: 1.0.0
   commit: 9118d90debbf4ec47ac90de01dfb5c0f31e0b53d
@@ -17,6 +21,10 @@ packages:
 - title: 2020_Nagele_Caribbean
   version: 1.0.0
   commit: 8996c446b005747e0447c60496ff5b702751f625
+  path: 2020_Nagele_Caribbean
+- title: 2020_Nagele_Caribbean
+  version: 1.0.1
+  commit: bdfd793437e2a1005b7231a9b1a18e7a577d2be5
   path: 2020_Nagele_Caribbean
 - title: 2021_CarlhoffNature
   version: 1.0.0
@@ -34,6 +42,10 @@ packages:
   version: 1.0.1
   commit: 7b598465b8637841f554b84cd1fc43af84a329b1
   path: 2021_Saag_EastEuropean
+- title: 2021_Yaka_Anatolia
+  version: 0.2.8
+  commit: 16e6640c2ae835ffaefb19b9de892aabcbb8d8e8
+  path: 2021_Yaka_Anatolia
 - title: 2022_Fischer_Gauls
   version: 1.0.0
   commit: 95c567d84440cb8763c02402fa9a5c855e960135
@@ -42,14 +54,34 @@ packages:
   version: 1.0.0
   commit: 3f161b3c1a5ef2d0d40ece43dbaf0cbbe0f2d6bf
   path: 2022_Kennett_Belize
+- title: 2023_Ferraz_NatureEcologyEvolution
+  version: 1.0.0
+  commit: 71363cec116107c9bbb719d27a0d8fb011ac46b2
+  path: 2023_Ferraz_NatureEcologyEvolution
+- title: 2023_Ferraz_NatureEcologyEvolution
+  version: 1.0.1
+  commit: 077a93346fec2c8552e48914d06cbe84c959ceae
+  path: 2023_Ferraz_NatureEcologyEvolution
 - title: 2023_OlaldeCarrion_Roman
   version: 1.0.0
   commit: 3a8c6d97bf581e45b183671ac0171b37045ed805
+  path: 2023_OlaldeCarrion_Roman
+- title: 2023_OlaldeCarrion_Roman
+  version: 1.0.1
+  commit: 7d9bc64aeca434a140d6d80ca4682f51a6d08101
   path: 2023_OlaldeCarrion_Roman
 - title: 2023_Peltola_VolgaOka
   version: 1.0.0
   commit: 2ea9212f1173325fe08958171c751a7f6494daed
   path: 2023_Peltola_VolgaOka
+- title: 2023_Peltola_VolgaOka
+  version: 1.0.1
+  commit: bdfd793437e2a1005b7231a9b1a18e7a577d2be5
+  path: 2023_Peltola_VolgaOka
+- title: 2023_RodriguezVarela_Scandinavia
+  version: 1.0.0
+  commit: 994f5b4396e0388b65fcabcaa01c708908f293aa
+  path: 2023_RodriguezVarela_Scandinavia
 - title: 2023_Salazar_MachuPicchu
   version: 1.0.0
   commit: 38efa935785d407cf9cb02947c72ea327349de83
@@ -58,3 +90,7 @@ packages:
   version: 1.0.1
   commit: 3f161b3c1a5ef2d0d40ece43dbaf0cbbe0f2d6bf
   path: 2023_Salazar_MachuPicchu
+- title: 2023_VillaIslas_Science
+  version: 1.0.0
+  commit: c8cf53f65951f9f194d55c95a920bb984b2decee
+  path: 2023_VillaIslas_Science
