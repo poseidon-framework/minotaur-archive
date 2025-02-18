@@ -1,12 +1,12 @@
 poseidonVersion: 2.7.1
 title: 2023_Ferraz_NatureEcologyEvolution
-description: Empty package template. Please add a description
+description: Genomic history of coastal societies from eastern South America
 contributor:
 - name: Thiseas C. Lamnidis
   email: thiseas_christos_lamnidis@eva.mpg.de
 - name: Luca Thale-Bombien
   email: luca_thale_bombien@eva.mpg.de
-packageVersion: 1.0.0
+packageVersion: 1.0.1
 lastModified: 2025-02-13
 genotypeData:
   format: PLINK
