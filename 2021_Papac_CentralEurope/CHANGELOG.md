@@ -1,3 +1,4 @@
+- V 0.2.4: Update Source_Tissue formatting
 - V 0.2.3: Update Country. Add Country_ISO
 - V 0.2.2: Add bibFile. Add Publication info.
 - V 0.2.1: Fill-in metadata from community-archive: 2021_Papac_CentralEurope-1.2.0
