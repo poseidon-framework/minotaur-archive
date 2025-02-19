@@ -1,10 +1,11 @@
 poseidonVersion: 2.7.1
 title: 2021_Papac_CentralEurope
-description: Empty package template. Please add a description
+description: Dynamic changes in genomic and social structures in third millennium
+  BCE central Europe
 contributor:
 - name: Thiseas C. Lamnidis
   email: thiseas_christos_lamnidis@eva.mpg.de
-packageVersion: 0.2.5
+packageVersion: 0.2.6
 lastModified: 2025-02-19
 genotypeData:
   format: PLINK

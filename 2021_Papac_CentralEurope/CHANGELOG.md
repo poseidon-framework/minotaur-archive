@@ -1,3 +1,4 @@
+- V 0.2.6: Update package description
 - V 0.2.5: Added site info from Location column
 - V 0.2.4: Update Source_Tissue formatting
 - V 0.2.3: Update Country. Add Country_ISO
