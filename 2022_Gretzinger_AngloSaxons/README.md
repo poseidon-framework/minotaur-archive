@@ -51,6 +51,6 @@ paste -d "\t" ${package_name}/${package_name}.fam <(cut -f 1-3 ${package_name}/$
   ## Cannot overwrite in the same command that reads in the file, so an extra mv is needed.
   mv tmp.fam ${package_name}/${package_name}.fam
 
-  ## trident version: 1.4.1.0
+  ## trident version: 1.5.4.0
   trident rectify --packageVersion Patch --logText "Fill-in metadata from ${fill_from_archive}: ${fill_from_package}" --checksumAll -d ${package_name}
 ```
