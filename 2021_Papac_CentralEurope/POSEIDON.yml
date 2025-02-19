@@ -1,0 +1,23 @@
+poseidonVersion: 2.7.1
+title: 2021_Papac_CentralEurope
+description: Empty package template. Please add a description
+contributor:
+- name: Thiseas C. Lamnidis
+  email: thiseas_christos_lamnidis@eva.mpg.de
+packageVersion: 0.2.0
+lastModified: 2025-02-19
+genotypeData:
+  format: PLINK
+  genoFile: 2021_Papac_CentralEurope.bed
+  genoFileChkSum: 066d56f4a183c096c76171121bdfcb64
+  snpFile: 2021_Papac_CentralEurope.bim
+  snpFileChkSum: 433fa85a23f3123bade02348e4628b75
+  indFile: 2021_Papac_CentralEurope.fam
+  indFileChkSum: 4d9f9c3d99fde569af9b08f447a3dfe9
+  snpSet: 1240K
+jannoFile: 2021_Papac_CentralEurope.janno
+jannoFileChkSum: 96d65dbf46f0f55160f4ac38034ab692
+sequencingSourceFile: 2021_Papac_CentralEurope.ssf
+sequencingSourceFileChkSum: 66ad24e6a58af95c1a9889b1a03ecd99
+readmeFile: README.md
+changelogFile: CHANGELOG.md
