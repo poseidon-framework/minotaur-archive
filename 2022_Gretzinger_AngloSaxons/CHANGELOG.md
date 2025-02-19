@@ -1,3 +1,4 @@
+- V 0.2.5: Reformat Source_Tissue column
 - V 0.2.4: Add Country_ISO info
 - V 0.2.3: Fix Relation_To column formatting
 - V 0.2.2: Fill-in metadata from community-archive: 2022_Gretzinger_AngloSaxons-1.2.1
