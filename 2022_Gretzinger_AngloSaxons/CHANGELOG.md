@@ -1,3 +1,4 @@
+- V 0.2.7: Rename Y_Haplogroup to Y_Haplogroup_ISOGG
 - V 0.2.6: Update package description
 - V 0.2.5: Reformat Source_Tissue column
 - V 0.2.4: Add Country_ISO info
