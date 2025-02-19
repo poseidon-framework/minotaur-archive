@@ -4,7 +4,7 @@ description: Empty package template. Please add a description
 contributor:
 - name: Thiseas C. Lamnidis
   email: thiseas_christos_lamnidis@eva.mpg.de
-packageVersion: 0.2.1
+packageVersion: 0.2.2
 lastModified: 2025-02-19
 genotypeData:
   format: PLINK
@@ -16,8 +16,10 @@ genotypeData:
   indFileChkSum: 42f9c700eea74e56b20fd8c46ddcc175
   snpSet: 1240K
 jannoFile: 2021_Papac_CentralEurope.janno
-jannoFileChkSum: af999585fc2b07703e421013c206a434
+jannoFileChkSum: 94c7ae36826937e5b446d30db365eddd
 sequencingSourceFile: 2021_Papac_CentralEurope.ssf
 sequencingSourceFileChkSum: 66ad24e6a58af95c1a9889b1a03ecd99
+bibFile: 2021_Papac_CentralEurope.bib
+bibFileChkSum: 2a74a2dd81b64bcd0a7bf9e1151fc46f
 readmeFile: README.md
 changelogFile: CHANGELOG.md
