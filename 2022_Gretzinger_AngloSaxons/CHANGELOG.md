@@ -1,3 +1,4 @@
+- V 0.2.3: Fix Relation_To column formatting
 - V 0.2.2: Fill-in metadata from community-archive: 2022_Gretzinger_AngloSaxons-1.2.1
 - V 0.2.1: Add bibFile and Publication info.
 - V 0.2.0: Rearrange Poseidon_IDs alphabetically.

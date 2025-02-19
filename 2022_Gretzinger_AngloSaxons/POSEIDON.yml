@@ -4,7 +4,7 @@ description: Empty package template. Please add a description
 contributor:
 - name: Thiseas C. Lamnidis
   email: thiseas_christos_lamnidis@eva.mpg.de
-packageVersion: 0.2.2
+packageVersion: 0.2.3
 lastModified: 2025-02-19
 genotypeData:
   format: PLINK
@@ -16,7 +16,7 @@ genotypeData:
   indFileChkSum: 037e9aa3264819244ca04b01720fe9ba
   snpSet: 1240K
 jannoFile: 2022_Gretzinger_AngloSaxons.janno
-jannoFileChkSum: d2b4f7d1392c6d03fedcf581450409f1
+jannoFileChkSum: fffffd2c92d27900ddf1edc4ef60c150
 sequencingSourceFile: 2022_Gretzinger_AngloSaxons.ssf
 sequencingSourceFileChkSum: 720e0f69771c3bb3c5339030b3c2fdb5
 bibFile: 2022_Gretzinger_AngloSaxons.bib
