@@ -1,10 +1,11 @@
 poseidonVersion: 2.7.1
 title: 2022_Gretzinger_AngloSaxons
-description: Empty package template. Please add a description
+description: The Anglo-Saxon migration and the formation of the early English gene
+  pool
 contributor:
 - name: Thiseas C. Lamnidis
   email: thiseas_christos_lamnidis@eva.mpg.de
-packageVersion: 0.2.5
+packageVersion: 0.2.6
 lastModified: 2025-02-19
 genotypeData:
   format: PLINK

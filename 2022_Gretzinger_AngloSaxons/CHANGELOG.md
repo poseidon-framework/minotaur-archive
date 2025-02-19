@@ -1,3 +1,4 @@
+- V 0.2.6: Update package description
 - V 0.2.5: Reformat Source_Tissue column
 - V 0.2.4: Add Country_ISO info
 - V 0.2.3: Fix Relation_To column formatting
