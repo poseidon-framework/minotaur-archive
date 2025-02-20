@@ -5,7 +5,7 @@ description: Dynamic changes in genomic and social structures in third millenniu
 contributor:
 - name: Thiseas C. Lamnidis
   email: thiseas_christos_lamnidis@eva.mpg.de
-packageVersion: 0.2.8
+packageVersion: 0.2.9
 lastModified: 2025-02-20
 genotypeData:
   format: PLINK
@@ -17,7 +17,7 @@ genotypeData:
   indFileChkSum: 42f9c700eea74e56b20fd8c46ddcc175
   snpSet: 1240K
 jannoFile: 2021_Papac_CentralEurope.janno
-jannoFileChkSum: c4085486e1ee998e6fa73729cf8916ad
+jannoFileChkSum: 59dd49fa46bc9a60225780bfb5886bd9
 sequencingSourceFile: 2021_Papac_CentralEurope.ssf
 sequencingSourceFileChkSum: 66ad24e6a58af95c1a9889b1a03ecd99
 bibFile: 2021_Papac_CentralEurope.bib
