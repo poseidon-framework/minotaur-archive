@@ -1,6 +1,6 @@
 title: Poseidon minotaur-archive chronicle
-chronicleVersion: 1.16.0
-lastModified: 2025-02-13
+chronicleVersion: 1.18.0
+lastModified: 2025-02-18
 packages:
 - title: 2020_Bongers_SouthPeru
   version: 1.0.0
@@ -58,6 +58,10 @@ packages:
   version: 1.0.0
   commit: 71363cec116107c9bbb719d27a0d8fb011ac46b2
   path: 2023_Ferraz_NatureEcologyEvolution
+- title: 2023_Ferraz_NatureEcologyEvolution
+  version: 1.0.1
+  commit: 077a93346fec2c8552e48914d06cbe84c959ceae
+  path: 2023_Ferraz_NatureEcologyEvolution
 - title: 2023_OlaldeCarrion_Roman
   version: 1.0.0
   commit: 3a8c6d97bf581e45b183671ac0171b37045ed805
@@ -74,6 +78,10 @@ packages:
   version: 1.0.1
   commit: bdfd793437e2a1005b7231a9b1a18e7a577d2be5
   path: 2023_Peltola_VolgaOka
+- title: 2023_RodriguezVarela_Scandinavia
+  version: 1.0.0
+  commit: 994f5b4396e0388b65fcabcaa01c708908f293aa
+  path: 2023_RodriguezVarela_Scandinavia
 - title: 2023_Salazar_MachuPicchu
   version: 1.0.0
   commit: 38efa935785d407cf9cb02947c72ea327349de83
