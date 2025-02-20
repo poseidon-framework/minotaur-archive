@@ -1,3 +1,4 @@
+- V 0.2.8: Fill Relation columns
 - V 0.2.7: Add Site info for Ruzyně and standardise formatting
 - V 0.2.6: Update package description
 - V 0.2.5: Added site info from Location column
