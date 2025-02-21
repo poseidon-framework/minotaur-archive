@@ -1,0 +1,12 @@
+- V 0.2.9: Remove empty Janno columns
+- V 0.2.8: Fill Relation columns
+- V 0.2.7: Add Site info for Ruzyně and standardise formatting
+- V 0.2.6: Update package description
+- V 0.2.5: Added site info from Location column
+- V 0.2.4: Update Source_Tissue formatting
+- V 0.2.3: Update Country. Add Country_ISO
+- V 0.2.2: Add bibFile. Add Publication info.
+- V 0.2.1: Fill-in metadata from community-archive: 2021_Papac_CentralEurope-1.2.0
+- V 0.2.0: Rearrange Poseidon_IDs alphabetically.
+- V 0.1.2: Automatic update of janno file from Minotaur processing.
+- V 0.1.1: Added self as contributor to package.
