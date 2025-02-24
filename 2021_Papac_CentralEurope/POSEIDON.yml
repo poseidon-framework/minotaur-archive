@@ -1,0 +1,26 @@
+poseidonVersion: 2.7.1
+title: 2021_Papac_CentralEurope
+description: Dynamic changes in genomic and social structures in third millennium
+  BCE central Europe
+contributor:
+- name: Thiseas C. Lamnidis
+  email: thiseas_christos_lamnidis@eva.mpg.de
+packageVersion: 0.2.9
+lastModified: 2025-02-20
+genotypeData:
+  format: PLINK
+  genoFile: 2021_Papac_CentralEurope.bed
+  genoFileChkSum: 066d56f4a183c096c76171121bdfcb64
+  snpFile: 2021_Papac_CentralEurope.bim
+  snpFileChkSum: 433fa85a23f3123bade02348e4628b75
+  indFile: 2021_Papac_CentralEurope.fam
+  indFileChkSum: 42f9c700eea74e56b20fd8c46ddcc175
+  snpSet: 1240K
+jannoFile: 2021_Papac_CentralEurope.janno
+jannoFileChkSum: 59dd49fa46bc9a60225780bfb5886bd9
+sequencingSourceFile: 2021_Papac_CentralEurope.ssf
+sequencingSourceFileChkSum: 66ad24e6a58af95c1a9889b1a03ecd99
+bibFile: 2021_Papac_CentralEurope.bib
+bibFileChkSum: 2a74a2dd81b64bcd0a7bf9e1151fc46f
+readmeFile: README.md
+changelogFile: CHANGELOG.md
