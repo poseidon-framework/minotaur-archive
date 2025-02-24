@@ -1,0 +1,26 @@
+poseidonVersion: 2.7.1
+title: 2022_Gretzinger_AngloSaxons
+description: The Anglo-Saxon migration and the formation of the early English gene
+  pool
+contributor:
+- name: Thiseas C. Lamnidis
+  email: thiseas_christos_lamnidis@eva.mpg.de
+packageVersion: 0.2.9
+lastModified: 2025-02-24
+genotypeData:
+  format: PLINK
+  genoFile: 2022_Gretzinger_AngloSaxons.bed
+  genoFileChkSum: d04814ba1033d26be91987e94f1b6bcb
+  snpFile: 2022_Gretzinger_AngloSaxons.bim
+  snpFileChkSum: 433fa85a23f3123bade02348e4628b75
+  indFile: 2022_Gretzinger_AngloSaxons.fam
+  indFileChkSum: 037e9aa3264819244ca04b01720fe9ba
+  snpSet: 1240K
+jannoFile: 2022_Gretzinger_AngloSaxons.janno
+jannoFileChkSum: 0144fa644ebabc82f5de7056fe3ee8c2
+sequencingSourceFile: 2022_Gretzinger_AngloSaxons.ssf
+sequencingSourceFileChkSum: 720e0f69771c3bb3c5339030b3c2fdb5
+bibFile: 2022_Gretzinger_AngloSaxons.bib
+bibFileChkSum: 0c091941f0246e7acf5fc5acf0688cb3
+readmeFile: README.md
+changelogFile: CHANGELOG.md
