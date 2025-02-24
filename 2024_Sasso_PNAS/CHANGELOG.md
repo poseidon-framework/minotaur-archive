@@ -1,0 +1,8 @@
+- V 0.2.5: Fix janno header: SNPs Ps -> SNPs. Update Date info on WPK004_MNT and SintTruiden
+- V 0.2.4: Remove empty columns from jannoFile.
+- V 0.2.3: Add secondary citation to BibFile.
+- V 0.2.2: Add janno info collected by @Kavlahkaff. Mirror info to fam file.
+- V 0.2.1: Add BibTex info and Publication column. Add package description.
+- V 0.2.0: Rearrange Poseidon_IDs alphabetically.
+- V 0.1.2: Automatic update of janno file from Minotaur processing.
+- V 0.1.1: Added self as contributor to package.

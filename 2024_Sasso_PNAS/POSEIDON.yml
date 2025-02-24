@@ -1,0 +1,28 @@
+poseidonVersion: 2.7.1
+title: 2024_Sasso_PNAS
+description: Capturing the fusion of two ancestries and kinship structures in Merovingian
+  Flanders
+contributor:
+- name: Thiseas C. Lamnidis
+  email: thiseas_christos_lamnidis@eva.mpg.de
+- name: Luca Thale-Bombien
+  email: luca_thale_bombien@eva.mpg.de
+packageVersion: 0.2.5
+lastModified: 2025-02-24
+genotypeData:
+  format: PLINK
+  genoFile: 2024_Sasso_PNAS.bed
+  genoFileChkSum: f7abefedc26597e8432b453005094874
+  snpFile: 2024_Sasso_PNAS.bim
+  snpFileChkSum: 433fa85a23f3123bade02348e4628b75
+  indFile: 2024_Sasso_PNAS.fam
+  indFileChkSum: 769f326359e98716ab0734f9ec4f692b
+  snpSet: 1240K
+jannoFile: 2024_Sasso_PNAS.janno
+jannoFileChkSum: 9fed444566ec3953c8b6c911df5b4250
+sequencingSourceFile: 2024_Sasso_PNAS.ssf
+sequencingSourceFileChkSum: 3b370925b3dca1b31754a5156fd038e8
+bibFile: 2024_Sasso_PNAS.bib
+bibFileChkSum: c27ff72f8d2a8c8cce635983bba3793b
+readmeFile: README.md
+changelogFile: CHANGELOG.md
