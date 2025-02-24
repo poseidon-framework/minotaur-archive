@@ -1,3 +1,4 @@
+- V 0.2.5: Fix janno header: SNPs Ps -> SNPs. Update Date info on WPK004_MNT and SintTruiden
 - V 0.2.4: Remove empty columns from jannoFile.
 - V 0.2.3: Add secondary citation to BibFile.
 - V 0.2.2: Add janno info collected by @Kavlahkaff. Mirror info to fam file.
