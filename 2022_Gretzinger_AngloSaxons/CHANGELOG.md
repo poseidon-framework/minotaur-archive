@@ -1,3 +1,4 @@
+- V 0.2.9: Corrected Relation_To column
 - V 0.2.8: Remove empty janno columns.
 - V 0.2.7: Rename Y_Haplogroup to Y_Haplogroup_ISOGG
 - V 0.2.6: Update package description

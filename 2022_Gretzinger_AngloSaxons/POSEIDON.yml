@@ -5,8 +5,8 @@ description: The Anglo-Saxon migration and the formation of the early English ge
 contributor:
 - name: Thiseas C. Lamnidis
   email: thiseas_christos_lamnidis@eva.mpg.de
-packageVersion: 0.2.8
-lastModified: 2025-02-19
+packageVersion: 0.2.9
+lastModified: 2025-02-24
 genotypeData:
   format: PLINK
   genoFile: 2022_Gretzinger_AngloSaxons.bed
@@ -17,7 +17,7 @@ genotypeData:
   indFileChkSum: 037e9aa3264819244ca04b01720fe9ba
   snpSet: 1240K
 jannoFile: 2022_Gretzinger_AngloSaxons.janno
-jannoFileChkSum: 0907edb99b10d33334a148e0b0ba4a5c
+jannoFileChkSum: 0144fa644ebabc82f5de7056fe3ee8c2
 sequencingSourceFile: 2022_Gretzinger_AngloSaxons.ssf
 sequencingSourceFileChkSum: 720e0f69771c3bb3c5339030b3c2fdb5
 bibFile: 2022_Gretzinger_AngloSaxons.bib
