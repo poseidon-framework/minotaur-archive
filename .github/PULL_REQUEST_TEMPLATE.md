@@ -22,6 +22,7 @@ PR checklist:
 - [ ] Any scripts/commands used to prepare the pacakge are kept track of in the README file.
 - [ ] `Country` information is also present in the `Country_ISO` column.
 - [ ] Any columns in the janno that are entirely missing or `n/a` should be removed from the janno.
+- [ ] If `Y_Haplogroups` were provided in the ISOGG format, the column should be renamed to `Y_Haplogroups_ISOGG`
 - [ ] Poseidon_IDs in the `Relation_To` column contain the `_MNT` suffix.
 
 Once the Pull Request has passed the review process, ensure the package version is bumped once more before publishing with:
