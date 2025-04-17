@@ -1,6 +1,6 @@
 title: Poseidon minotaur-archive chronicle
-chronicleVersion: 1.18.0
-lastModified: 2025-02-18
+chronicleVersion: 1.19.0
+lastModified: 2025-02-24
 packages:
 - title: 2020_Bongers_SouthPeru
   version: 1.0.0
@@ -34,6 +34,10 @@ packages:
   version: 1.0.1
   commit: 7b598465b8637841f554b84cd1fc43af84a329b1
   path: 2021_CarlhoffNature
+- title: 2021_Papac_CentralEurope
+  version: 0.2.9
+  commit: ef96c4182d4b998e03c83e472a398a729322625e
+  path: 2021_Papac_CentralEurope
 - title: 2021_Saag_EastEuropean
   version: 1.0.0
   commit: fa09bafe346791c1cba137b8afc905f9fdbb6a17
@@ -50,6 +54,10 @@ packages:
   version: 1.0.0
   commit: 95c567d84440cb8763c02402fa9a5c855e960135
   path: 2022_Fischer_Gauls
+- title: 2022_Gretzinger_AngloSaxons
+  version: 0.2.9
+  commit: ef96c4182d4b998e03c83e472a398a729322625e
+  path: 2022_Gretzinger_AngloSaxons
 - title: 2022_Kennett_Belize
   version: 1.0.0
   commit: 3f161b3c1a5ef2d0d40ece43dbaf0cbbe0f2d6bf
@@ -94,3 +102,7 @@ packages:
   version: 1.0.0
   commit: c8cf53f65951f9f194d55c95a920bb984b2decee
   path: 2023_VillaIslas_Science
+- title: 2024_Sasso_PNAS
+  version: 0.2.5
+  commit: ef96c4182d4b998e03c83e472a398a729322625e
+  path: 2024_Sasso_PNAS
