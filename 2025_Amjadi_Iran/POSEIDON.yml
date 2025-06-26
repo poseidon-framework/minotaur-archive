@@ -1,0 +1,20 @@
+poseidonVersion: 2.7.1
+title: 2025_Amjadi_Iran
+description: Empty package template. Please add a description
+contributor:
+- name: Thiseas C. Lamnidis
+  email: thiseas_christos_lamnidis@eva.mpg.de
+packageVersion: 0.2.0
+lastModified: 2025-06-26
+genotypeData:
+  format: PLINK
+  genoFile: 2025_Amjadi_Iran.bed
+  snpFile: 2025_Amjadi_Iran.bim
+  indFile: 2025_Amjadi_Iran.fam
+  snpSet: 1240K
+jannoFile: 2025_Amjadi_Iran.janno
+jannoFileChkSum: 57bebb42d977caebf1cf6393917b3fac
+sequencingSourceFile: 2025_Amjadi_Iran.ssf
+sequencingSourceFileChkSum: 809301267f9c1f41df46e6a7e0053233
+readmeFile: README.md
+changelogFile: CHANGELOG.md
