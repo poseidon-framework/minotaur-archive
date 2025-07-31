@@ -1,0 +1,20 @@
+poseidonVersion: 2.7.1
+title: 2025_Lazaridis_Yamnaya
+description: Empty package template. Please add a description
+contributor:
+- name: Thiseas C. Lamnidis
+  email: thiseas_christos_lamnidis@eva.mpg.de
+packageVersion: 0.2.0
+lastModified: 2025-07-23
+genotypeData:
+  format: PLINK
+  genoFile: 2025_Lazaridis_Yamnaya.bed
+  snpFile: 2025_Lazaridis_Yamnaya.bim
+  indFile: 2025_Lazaridis_Yamnaya.fam
+  snpSet: 1240K
+jannoFile: 2025_Lazaridis_Yamnaya.janno
+jannoFileChkSum: fd158783c11b2781383691a68ee94c59
+sequencingSourceFile: 2025_Lazaridis_Yamnaya.ssf
+sequencingSourceFileChkSum: 3fdb31c74a8d52795ed3f85ee53b32ec
+readmeFile: README.md
+changelogFile: CHANGELOG.md
