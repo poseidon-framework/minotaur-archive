@@ -6,7 +6,7 @@ contributor:
   email: thiseas_christos_lamnidis@eva.mpg.de
 - name: tlkhi
   email: ''
-packageVersion: 0.3.0
+packageVersion: 0.3.1
 lastModified: 2025-07-31
 genotypeData:
   format: PLINK
@@ -18,7 +18,7 @@ genotypeData:
   indFileChkSum: b9c4f26eb4a1f6b967cb63151084ddb2
   snpSet: 1240K
 jannoFile: 2025_Lazaridis_Yamnaya.janno
-jannoFileChkSum: fe5c32ee6938333498b6d269938475e9
+jannoFileChkSum: 2c59bd0a4e52c8333e8b8608abf00c3e
 sequencingSourceFile: 2025_Lazaridis_Yamnaya.ssf
 sequencingSourceFileChkSum: 3fdb31c74a8d52795ed3f85ee53b32ec
 bibFile: 2025_Lazaridis_Yamnaya.bib
