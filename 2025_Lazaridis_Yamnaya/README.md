@@ -12,24 +12,25 @@ This package was created on 2025-07-23 and was processed using the following ver
 ## Fill relevant columns from provided janno.
 
 ```bash
-## trident version: 1.5.4.0
-remote_janno_url="https://raw.githubusercontent.com/poseidon-framework/minotaur-archive/refs/heads/2025_Lazaridis_Yamnaya/2025_Lazaridis_Yamnaya/2025_Lazaridis_Yamnaya.janno_provided"
+## trident version: 1.6.2.1
+remote_janno_url="https://raw.githubusercontent.com/poseidon-framework/minotaur-archive/6fc8de907ac5071a957718abe0fdd988332c030f/2025_Lazaridis_Yamnaya/2025_Lazaridis_Yamnaya.janno_provided"
 source_janno="remote_janno.janno"
 package_name="2025_Lazaridis_Yamnaya"
 target_janno="${package_name}/${package_name}.janno"
-contributors="[tlkhi]"
+contributors="[tlkhi]()"
 
 ## Get remote janno
 curl -L ${remote_janno_url} -o ${source_janno}
-## Provided janno has poseidon_IDs and Relationship_To in lowercase, while the ssf had them in uppercase.
+
+## Provided janno has space and hyphens in the Group_Names. Replace them with an underscore.
 awk -F "\t" '
   BEGIN{
     OFS=IFS="\t"
   }
   NR==1 {print}
   NR>1{
-    $1=toupper($1)
-    if ($4 != "n/a") { $4=toupper($4) }
+    gsub(/ /,"_",$3)
+    gsub(/-/,"_",$3)
     print
   }
   ' ${source_janno} > tmp.janno
@@ -57,7 +58,8 @@ paste -d "\t" ${package_name}/${package_name}.fam <(cut -f 1-3 ${package_name}/$
     OFS=IFS="\t"
   }
   {
-    $1=$9
+    split($9,group_name,";")
+    $1=group_name[1]
     if ($8 == "M") {
       $5=1
     } else if ($8 == "F") {
