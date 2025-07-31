@@ -1,3 +1,4 @@
+- V 0.3.0: Added Publication info
 - V 0.2.1: Fill-in metadata from remote-janno: https://raw.githubusercontent.com/poseidon-framework/minotaur-archive/6fc8de907ac5071a957718abe0fdd988332c030f/2025_Lazaridis_Yamnaya/2025_Lazaridis_Yamnaya.janno_provided. Add community contributors.
 - V 0.2.0: Rearrange Poseidon_IDs alphabetically.
 - V 0.1.2: Automatic update of janno file from Minotaur processing.
