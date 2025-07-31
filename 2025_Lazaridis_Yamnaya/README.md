@@ -17,7 +17,7 @@ remote_janno_url="https://raw.githubusercontent.com/poseidon-framework/minotaur-
 source_janno="remote_janno.janno"
 package_name="2025_Lazaridis_Yamnaya"
 target_janno="${package_name}/${package_name}.janno"
-contributors="[tlkhi]()"
+contributors="[Luca Thale-Bombien](luca_thale_bombien@eva.mpg.de)"
 
 ## Get remote janno
 curl -L ${remote_janno_url} -o ${source_janno}
