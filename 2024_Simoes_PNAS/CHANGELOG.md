@@ -1,3 +1,4 @@
+- V 0.2.3: Fix broken character in janno
 - V 0.2.2: Fill-in metadata from remote-janno: https://github.com/poseidon-framework/minotaur-archive/raw/e14b2c44e2a2465884b89beda88b30451634b200/2024_Simoes_PNAS/provided_janno.janno. Add community contributors.
 - V 0.2.1: Add bibFile and Publication info. Update package description.
 - V 0.2.0: Rearrange Poseidon_IDs alphabetically.
