@@ -5,7 +5,9 @@ description: Genomic ancestry and social dynamics of the last hunter-gatherers o
 contributor:
 - name: Thiseas C. Lamnidis
   email: thiseas_christos_lamnidis@eva.mpg.de
-packageVersion: 0.2.1
+- name: tlkhi
+  email: ''
+packageVersion: 0.2.2
 lastModified: 2025-08-12
 genotypeData:
   format: PLINK
@@ -14,10 +16,10 @@ genotypeData:
   snpFile: 2024_Simoes_PNAS.bim
   snpFileChkSum: 433fa85a23f3123bade02348e4628b75
   indFile: 2024_Simoes_PNAS.fam
-  indFileChkSum: 2ffa2f0f1db2ce99734f068b4233aa54
+  indFileChkSum: e39e38f8fa3629a46d468d0c602f6618
   snpSet: 1240K
 jannoFile: 2024_Simoes_PNAS.janno
-jannoFileChkSum: 122fd48bc0fea0cf4e8df1ea45e31c15
+jannoFileChkSum: 2bcc2de1647125e5c87bf48e29acba16
 sequencingSourceFile: 2024_Simoes_PNAS.ssf
 sequencingSourceFileChkSum: cf8ba3d9cc7370dc0f0013e8cc986f0e
 bibFile: 2024_Simoes_PNAS.bib
