@@ -17,7 +17,7 @@ genotypeData:
   indFileChkSum: 2ffa2f0f1db2ce99734f068b4233aa54
   snpSet: 1240K
 jannoFile: 2024_Simoes_PNAS.janno
-jannoFileChkSum: cda96d70c8cfb46e636f260adaf8f434
+jannoFileChkSum: 122fd48bc0fea0cf4e8df1ea45e31c15
 sequencingSourceFile: 2024_Simoes_PNAS.ssf
 sequencingSourceFileChkSum: cf8ba3d9cc7370dc0f0013e8cc986f0e
 bibFile: 2024_Simoes_PNAS.bib
