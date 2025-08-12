@@ -1,0 +1,8 @@
+- V 0.2.5: Reformat Y_Haplogroup info.
+- V 0.2.4: Remove empty janno columns
+- V 0.2.3: Fix broken character in janno
+- V 0.2.2: Fill-in metadata from remote-janno: https://github.com/poseidon-framework/minotaur-archive/raw/e14b2c44e2a2465884b89beda88b30451634b200/2024_Simoes_PNAS/provided_janno.janno. Add community contributors.
+- V 0.2.1: Add bibFile and Publication info. Update package description.
+- V 0.2.0: Rearrange Poseidon_IDs alphabetically.
+- V 0.1.2: Automatic update of janno file from Minotaur processing.
+- V 0.1.1: Added self as contributor to package.
