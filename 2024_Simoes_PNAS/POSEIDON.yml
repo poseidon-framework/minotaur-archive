@@ -1,0 +1,20 @@
+poseidonVersion: 2.7.1
+title: 2024_Simoes_PNAS
+description: Empty package template. Please add a description
+contributor:
+- name: Thiseas C. Lamnidis
+  email: thiseas_christos_lamnidis@eva.mpg.de
+packageVersion: 0.2.0
+lastModified: 2025-08-12
+genotypeData:
+  format: PLINK
+  genoFile: 2024_Simoes_PNAS.bed
+  snpFile: 2024_Simoes_PNAS.bim
+  indFile: 2024_Simoes_PNAS.fam
+  snpSet: 1240K
+jannoFile: 2024_Simoes_PNAS.janno
+jannoFileChkSum: cda96d70c8cfb46e636f260adaf8f434
+sequencingSourceFile: 2024_Simoes_PNAS.ssf
+sequencingSourceFileChkSum: cf8ba3d9cc7370dc0f0013e8cc986f0e
+readmeFile: README.md
+changelogFile: CHANGELOG.md
