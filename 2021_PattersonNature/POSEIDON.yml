@@ -1,6 +1,6 @@
 poseidonVersion: 2.7.1
 title: 2021_Patterson_Nature
-description: Empty package template. Please add a description
+description: Large-scale migration into Britain during the Middle to Late Bronze Age
 contributor:
 - name: Thiseas C. Lamnidis
   email: thiseas_christos_lamnidis@eva.mpg.de
@@ -16,8 +16,10 @@ genotypeData:
   indFileChkSum: 976f9b9787e182103a2d8954861f7721
   snpSet: 1240K
 jannoFile: 2021_Patterson_Nature.janno
-jannoFileChkSum: 146b3fe803dbd47e066df50457f65f6a
+jannoFileChkSum: 8f2e95a9e1ad6c9daae62a635afea47b
 sequencingSourceFile: 2021_Patterson_Nature.ssf
 sequencingSourceFileChkSum: f6444437bbb26a063057d5712c0bfa45
+bibFile: 2021_Patterson_Nature.bib
+bibFileChkSum: a79ff80665407a8562fca73aa91b9530
 readmeFile: README.md
 changelogFile: CHANGELOG.md
