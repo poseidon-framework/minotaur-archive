@@ -1,5 +1,5 @@
 poseidonVersion: 2.7.1
-title: 2021_PattersonNature
+title: 2021_Patterson_Nature
 description: Empty package template. Please add a description
 contributor:
 - name: Thiseas C. Lamnidis
@@ -8,16 +8,16 @@ packageVersion: 0.2.0
 lastModified: 2025-09-04
 genotypeData:
   format: PLINK
-  genoFile: 2021_PattersonNature.bed
+  genoFile: 2021_Patterson_Nature.bed
   genoFileChkSum: 8c42fae9a2787bd6c0535bcaef9f383a
-  snpFile: 2021_PattersonNature.bim
+  snpFile: 2021_Patterson_Nature.bim
   snpFileChkSum: 433fa85a23f3123bade02348e4628b75
-  indFile: 2021_PattersonNature.fam
+  indFile: 2021_Patterson_Nature.fam
   indFileChkSum: 976f9b9787e182103a2d8954861f7721
   snpSet: 1240K
-jannoFile: 2021_PattersonNature.janno
+jannoFile: 2021_Patterson_Nature.janno
 jannoFileChkSum: 146b3fe803dbd47e066df50457f65f6a
-sequencingSourceFile: 2021_PattersonNature.ssf
+sequencingSourceFile: 2021_Patterson_Nature.ssf
 sequencingSourceFileChkSum: f6444437bbb26a063057d5712c0bfa45
 readmeFile: README.md
 changelogFile: CHANGELOG.md
