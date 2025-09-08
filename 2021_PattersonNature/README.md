@@ -22,14 +22,14 @@ community_janno_fn=$(readlink -f ../../archives/community-archive/${package_name
 trident jannocoalesce \
   -s ${community_janno_fn} \
   -t ${package_name}/${package_name}.janno \
-  --stripIdRegex "(_ss_MNT$)|(_MNT$)" \
+  --stripIdRegex "(_ss_MNT$)|(_MNT$)|(_d$)|(_new$)" \
   --includeColumns Alternative_IDs,Relation_To,Relation_Degree,Relation_Type,Relation_Note,Collection_ID,Country,Country_ISO,Location,Site,Latitude,Longitude,Date_Type,Date_C14_Labnr,Date_C14_Uncal_BP,Date_C14_Uncal_BP_Err,Date_BC_AD_Start,Date_BC_AD_Median,Date_BC_AD_Stop,Date_Note,MT_Haplogroup,Y_Haplogroup,Source_Tissue,Primary_Contact,Note,Keywords
 
 ## Then fill in Group_Name and Genetic_Sex
 trident jannocoalesce \
   -s ${community_janno_fn} \
   -t ${package_name}/${package_name}.janno \
-  --stripIdRegex "(_ss_MNT$)|(_MNT$)" \
+  --stripIdRegex "(_ss_MNT$)|(_MNT$)|(_d$)|(_new$)" \
   --includeColumns Genetic_Sex,Group_Name \
   --force
 
