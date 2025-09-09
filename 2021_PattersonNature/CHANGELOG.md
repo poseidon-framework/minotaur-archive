@@ -1,3 +1,4 @@
+- V 0.2.4: Remove empty columns from janno file.
 - V 0.2.3: Add Relation info
 - V 0.2.2: Add missing Alternative_ID info
 - V 0.2.1: Fill-in metadata from community-archive: 2021_PattersonNature-0.4.3 AADR_v62_1240K_EuropeAncientNorth-1.1.0 AADR_v62_1240K_BeyondAncient-1.0.0 AADR_v62_1240K_EuropeAncientSouth-1.1.0
