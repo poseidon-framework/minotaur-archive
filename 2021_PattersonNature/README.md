@@ -15,21 +15,99 @@ This package was created on 2025-09-04 and was processed using the following ver
 
 ```bash
 package_name="2021_PattersonNature"
+regex=("(_ss_MNT$)|(_MNT$)|(\.AG$)|(_d$)|(_d\.AG$)" "(_ss_MNT$)|(_MNT$)|(_d\.AG$)")
+
+## The AADR is the de-facto source of metadata for this package, so we start with that.
+########################
+## EuropeAncientNorth ##
+########################
+aadr_archive_package="AADR_v62_1240K_EuropeAncientNorth"
+aadr_package_version="1.1.0"
+aadr_janno_fn=$(readlink -f ../../archives/aadr-archive/${aadr_archive_package}-${aadr_package_version}/*.janno)
+
+## First fill-in missing metadata from relevant columns (no processing-based info).
+## This is ran for different regexes because some IDs exist with multiple suffixes which crash the script if picked up together.
+for rgx in "${regex[@]}"; do
+  trident jannocoalesce \
+    -s ${aadr_janno_fn} \
+    -t ${package_name}/${package_name}.janno \
+    --stripIdRegex ${rgx} \
+    --includeColumns Alternative_IDs,Relation_To,Relation_Degree,Relation_Type,Relation_Note,Collection_ID,Country,Country_ISO,Location,Site,Latitude,Longitude,Date_Type,Date_C14_Labnr,Date_C14_Uncal_BP,Date_C14_Uncal_BP_Err,Date_BC_AD_Start,Date_BC_AD_Median,Date_BC_AD_Stop,Date_Note,MT_Haplogroup,Y_Haplogroup,Source_Tissue,Primary_Contact,Note,Keywords
+
+  ## Then fill in Group_Name and Genetic_Sex
+  trident jannocoalesce \
+    -s ${aadr_janno_fn} \
+    -t ${package_name}/${package_name}.janno \
+    --stripIdRegex ${rgx} \
+    --includeColumns Genetic_Sex,Group_Name \
+    --force
+done
+###################
+## BeyondAncient ##
+###################
+aadr_archive_package="AADR_v62_1240K_BeyondAncient"
+aadr_package_version="1.0.0"
+aadr_janno_fn=$(readlink -f ../../archives/aadr-archive/${aadr_archive_package}-${aadr_package_version}/*.janno)
+
+## First fill-in missing metadata from relevant columns (no processing-based info).
+trident jannocoalesce \
+  -s ${aadr_janno_fn} \
+  -t ${package_name}/${package_name}.janno \
+  --stripIdRegex ${regex[0]} \
+  --includeColumns Alternative_IDs,Relation_To,Relation_Degree,Relation_Type,Relation_Note,Collection_ID,Country,Country_ISO,Location,Site,Latitude,Longitude,Date_Type,Date_C14_Labnr,Date_C14_Uncal_BP,Date_C14_Uncal_BP_Err,Date_BC_AD_Start,Date_BC_AD_Median,Date_BC_AD_Stop,Date_Note,MT_Haplogroup,Y_Haplogroup,Source_Tissue,Primary_Contact,Note,Keywords
+
+## Then fill in Group_Name and Genetic_Sex
+trident jannocoalesce \
+  -s ${aadr_janno_fn} \
+  -t ${package_name}/${package_name}.janno \
+  --stripIdRegex ${regex[0]} \
+  --includeColumns Genetic_Sex,Group_Name \
+  --force
+
+########################
+## EuropeAncientSouth ##
+########################
+aadr_archive_package="AADR_v62_1240K_EuropeAncientSouth"
+aadr_package_version="1.1.0"
+aadr_janno_fn=$(readlink -f ../../archives/aadr-archive/${aadr_archive_package}-${aadr_package_version}/*.janno)
+
+## First fill-in missing metadata from relevant columns (no processing-based info).
+for rgx in "${regex[@]}"; do
+  trident jannocoalesce \
+    -s ${aadr_janno_fn} \
+    -t ${package_name}/${package_name}.janno \
+    --stripIdRegex ${rgx} \
+    --includeColumns Alternative_IDs,Relation_To,Relation_Degree,Relation_Type,Relation_Note,Collection_ID,Country,Country_ISO,Location,Site,Latitude,Longitude,Date_Type,Date_C14_Labnr,Date_C14_Uncal_BP,Date_C14_Uncal_BP_Err,Date_BC_AD_Start,Date_BC_AD_Median,Date_BC_AD_Stop,Date_Note,MT_Haplogroup,Y_Haplogroup,Source_Tissue,Primary_Contact,Note,Keywords
+
+  ## Then fill in Group_Name and Genetic_Sex
+  trident jannocoalesce \
+    -s ${aadr_janno_fn} \
+    -t ${package_name}/${package_name}.janno \
+    --stripIdRegex ${rgx} \
+    --includeColumns Genetic_Sex,Group_Name \
+    --force
+done
+
+#######################
+## community archive ##
+#######################
+## No metadata is available on the AADR for 9 individuals. Some are found in the community archive instead.
 community_archive_version="0.4.3"
 community_janno_fn=$(readlink -f ../../archives/community-archive/${package_name}-${community_archive_version}/*.janno)
+regex_community="(_ss_MNT$)|(_MNT$)"
 
 ## First fill-in missing metadata from relevant columns (no processing-based info).
 trident jannocoalesce \
   -s ${community_janno_fn} \
   -t ${package_name}/${package_name}.janno \
-  --stripIdRegex "(_ss_MNT$)|(_MNT$)" \
+  --stripIdRegex ${regex_community} \
   --includeColumns Alternative_IDs,Relation_To,Relation_Degree,Relation_Type,Relation_Note,Collection_ID,Country,Country_ISO,Location,Site,Latitude,Longitude,Date_Type,Date_C14_Labnr,Date_C14_Uncal_BP,Date_C14_Uncal_BP_Err,Date_BC_AD_Start,Date_BC_AD_Median,Date_BC_AD_Stop,Date_Note,MT_Haplogroup,Y_Haplogroup,Source_Tissue,Primary_Contact,Note,Keywords
 
 ## Then fill in Group_Name and Genetic_Sex
 trident jannocoalesce \
   -s ${community_janno_fn} \
   -t ${package_name}/${package_name}.janno \
-  --stripIdRegex "(_ss_MNT$)|(_MNT$)" \
+  --stripIdRegex ${regex_community} \
   --includeColumns Genetic_Sex,Group_Name \
   --force
 
@@ -53,5 +131,5 @@ paste -d "\t" ${package_name}/${package_name}.fam <(cut -f 1-3 ${package_name}/$
   mv tmp.fam ${package_name}/${package_name}.fam
 
   ## trident version: 1.5.4.0
-  trident rectify --packageVersion Patch --logText "Fill-in metadata from community-archive: ${package_name}-${community_archive_version}" --checksumAll -d ${package_name}
+  trident rectify --packageVersion Patch --logText "Fill-in metadata from community-archive: ${package_name}-${community_archive_version} AADR_v62_1240K_EuropeAncientNorth-1.1.0 AADR_v62_1240K_BeyondAncient-1.0.0 AADR_v62_1240K_EuropeAncientSouth-1.1.0" --checksumAll -d ${package_name}
 ```
