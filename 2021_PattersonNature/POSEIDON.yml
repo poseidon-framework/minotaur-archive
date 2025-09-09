@@ -4,7 +4,7 @@ description: Large-scale migration into Britain during the Middle to Late Bronze
 contributor:
 - name: Thiseas C. Lamnidis
   email: thiseas_christos_lamnidis@eva.mpg.de
-packageVersion: 0.2.1
+packageVersion: 0.2.2
 lastModified: 2025-09-09
 genotypeData:
   format: PLINK
@@ -16,7 +16,7 @@ genotypeData:
   indFileChkSum: 114e0eea8719eff78b7e9841d8395166
   snpSet: 1240K
 jannoFile: 2021_PattersonNature.janno
-jannoFileChkSum: 7fd88d563a4de47c6d970f9023c6aa05
+jannoFileChkSum: 5c65c3fcab9f304901bcc1d989a73034
 sequencingSourceFile: 2021_PattersonNature.ssf
 sequencingSourceFileChkSum: f6444437bbb26a063057d5712c0bfa45
 bibFile: 2021_PattersonNature.bib
