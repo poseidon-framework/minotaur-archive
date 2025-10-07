@@ -1,5 +1,5 @@
 title: Poseidon minotaur-archive chronicle
-chronicleVersion: 1.20.0
+chronicleVersion: 1.21.0
 lastModified: 2025-10-07
 packages:
 - title: 2020_Bongers_SouthPeru
@@ -105,6 +105,10 @@ packages:
 - title: 2023_VillaIslas_Science
   version: 1.0.0
   commit: c8cf53f65951f9f194d55c95a920bb984b2decee
+  path: 2023_VillaIslas_Science
+- title: 2023_VillaIslas_Science
+  version: 1.1.0
+  commit: b0367cd5885b004fc19d0d542512fb784288b11b
   path: 2023_VillaIslas_Science
 - title: 2024_Sasso_PNAS
   version: 0.2.5
