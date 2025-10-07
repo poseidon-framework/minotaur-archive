@@ -1,3 +1,4 @@
+- V 1.1.0: Fix fam file. See #51
 - V 1.0.0: Bump version for release
 - V 0.2.3: Update Y_Haplogroup column formatting
 - V 0.2.2: Fix Date_Note. Fix Publication bibTex key. Only ASCII characters in Group_Name.
