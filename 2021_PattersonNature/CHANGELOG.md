@@ -1,3 +1,4 @@
+- V 1.0.0: Bump version for release
 - V 0.2.4: Remove empty columns from janno file.
 - V 0.2.3: Add Relation info
 - V 0.2.2: Add missing Alternative_ID info
