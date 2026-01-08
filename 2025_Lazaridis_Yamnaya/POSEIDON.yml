@@ -1,0 +1,27 @@
+poseidonVersion: 2.7.1
+title: 2025_Lazaridis_Yamnaya
+description: The genetic origin of the Indo-Europeans
+contributor:
+- name: Thiseas C. Lamnidis
+  email: thiseas_christos_lamnidis@eva.mpg.de
+- name: Luca Thale-Bombien
+  email: luca_thale_bombien@eva.mpg.de
+packageVersion: 0.3.1
+lastModified: 2025-07-31
+genotypeData:
+  format: PLINK
+  genoFile: 2025_Lazaridis_Yamnaya.bed
+  genoFileChkSum: a0fe5ad61e2e67ee10b8593db48dfffd
+  snpFile: 2025_Lazaridis_Yamnaya.bim
+  snpFileChkSum: 433fa85a23f3123bade02348e4628b75
+  indFile: 2025_Lazaridis_Yamnaya.fam
+  indFileChkSum: b9c4f26eb4a1f6b967cb63151084ddb2
+  snpSet: 1240K
+jannoFile: 2025_Lazaridis_Yamnaya.janno
+jannoFileChkSum: 2c59bd0a4e52c8333e8b8608abf00c3e
+sequencingSourceFile: 2025_Lazaridis_Yamnaya.ssf
+sequencingSourceFileChkSum: 3fdb31c74a8d52795ed3f85ee53b32ec
+bibFile: 2025_Lazaridis_Yamnaya.bib
+bibFileChkSum: 652b4142e18f30251357b9cff0e57df9
+readmeFile: README.md
+changelogFile: CHANGELOG.md
