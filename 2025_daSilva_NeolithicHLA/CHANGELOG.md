@@ -1,3 +1,4 @@
+- V 0.2.3: Add BibTex info and Publication column. Add package description.
 - V 0.2.2: Add contributor: Sandra Penske
 - V 0.2.1: Fill-in metadata from remote-janno: https://github.com/poseidon-framework/minotaur-archive/raw/refs/heads/2025_daSilva_NeolithicHLA/2025_daSilva_NeolithicHLA/provided_janno.janno
 - V 0.2.0: Rearrange Poseidon_IDs alphabetically.
