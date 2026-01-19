@@ -1,0 +1,23 @@
+poseidonVersion: 2.7.1
+title: 2025_daSilva_NeolithicHLA
+description: Empty package template. Please add a description
+contributor:
+- name: Thiseas C. Lamnidis
+  email: thiseas_christos_lamnidis@eva.mpg.de
+packageVersion: 0.2.0
+lastModified: 2026-01-19
+genotypeData:
+  format: PLINK
+  genoFile: 2025_daSilva_NeolithicHLA.bed
+  genoFileChkSum: 2055c0d0aaf2012c0cfa5ef0d1c3465d
+  snpFile: 2025_daSilva_NeolithicHLA.bim
+  snpFileChkSum: 433fa85a23f3123bade02348e4628b75
+  indFile: 2025_daSilva_NeolithicHLA.fam
+  indFileChkSum: 9b46659ceab4e812b5eb10ffb89c8db8
+  snpSet: 1240K
+jannoFile: 2025_daSilva_NeolithicHLA.janno
+jannoFileChkSum: 00cce0e7948e9fc0296ebf594b488c39
+sequencingSourceFile: 2025_daSilva_NeolithicHLA.ssf
+sequencingSourceFileChkSum: c37b8872f042de2679900b526304a397
+readmeFile: README.md
+changelogFile: CHANGELOG.md
