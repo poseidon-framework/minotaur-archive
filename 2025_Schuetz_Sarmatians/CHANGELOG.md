@@ -1,3 +1,4 @@
+- V 0.2.2: Add BibTex info and Publication column. Add package description.
 - V 0.2.1: Fill-in metadata from provided-janno: https://github.com/poseidon-framework/minotaur-recipes/blob/9b1f4590f58e45e920bb4a881e037bfb251f979f/packages/2025_Schuetz_Sarmatians/2025_Schuetz_Sarmatians.janno
 - V 0.2.0: Rearrange Poseidon_IDs alphabetically.
 - V 0.1.2: Automatic update of janno file from Minotaur processing.
