@@ -1,0 +1,23 @@
+poseidonVersion: 2.7.1
+title: 2025_Schuetz_Sarmatians
+description: Empty package template. Please add a description
+contributor:
+- name: Thiseas C. Lamnidis
+  email: thiseas_christos_lamnidis@eva.mpg.de
+packageVersion: 0.2.0
+lastModified: 2026-01-19
+genotypeData:
+  format: PLINK
+  genoFile: 2025_Schuetz_Sarmatians.bed
+  genoFileChkSum: ce1c65bac70f888dafb1826ad6727e5e
+  snpFile: 2025_Schuetz_Sarmatians.bim
+  snpFileChkSum: 433fa85a23f3123bade02348e4628b75
+  indFile: 2025_Schuetz_Sarmatians.fam
+  indFileChkSum: 1416de0889c52fcc3eb74bc5930d35b6
+  snpSet: 1240K
+jannoFile: 2025_Schuetz_Sarmatians.janno
+jannoFileChkSum: 038a014241d32b861782755b99529fb7
+sequencingSourceFile: 2025_Schuetz_Sarmatians.ssf
+sequencingSourceFileChkSum: 5a2c93079de483bf0a3d32d02a106f08
+readmeFile: README.md
+changelogFile: CHANGELOG.md
