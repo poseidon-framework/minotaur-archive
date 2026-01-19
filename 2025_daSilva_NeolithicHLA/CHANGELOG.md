@@ -1,3 +1,4 @@
+- V 0.2.1: Fill-in metadata from remote-janno: https://github.com/poseidon-framework/minotaur-archive/raw/refs/heads/2025_daSilva_NeolithicHLA/2025_daSilva_NeolithicHLA/provided_janno.janno
 - V 0.2.0: Rearrange Poseidon_IDs alphabetically.
 - V 0.1.2: Automatic update of janno file from Minotaur processing.
 - V 0.1.1: Added self as contributor to package.

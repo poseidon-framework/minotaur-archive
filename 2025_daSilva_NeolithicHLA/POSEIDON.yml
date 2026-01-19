@@ -4,7 +4,7 @@ description: Empty package template. Please add a description
 contributor:
 - name: Thiseas C. Lamnidis
   email: thiseas_christos_lamnidis@eva.mpg.de
-packageVersion: 0.2.0
+packageVersion: 0.2.1
 lastModified: 2026-01-19
 genotypeData:
   format: PLINK
@@ -13,11 +13,11 @@ genotypeData:
   snpFile: 2025_daSilva_NeolithicHLA.bim
   snpFileChkSum: 433fa85a23f3123bade02348e4628b75
   indFile: 2025_daSilva_NeolithicHLA.fam
-  indFileChkSum: 9b46659ceab4e812b5eb10ffb89c8db8
+  indFileChkSum: 7c1ed8050869a116691dd15820f22c1c
   snpSet: 1240K
 jannoFile: 2025_daSilva_NeolithicHLA.janno
-jannoFileChkSum: 00cce0e7948e9fc0296ebf594b488c39
+jannoFileChkSum: 51fd3fc45731161db49fa15c5796bdee
 sequencingSourceFile: 2025_daSilva_NeolithicHLA.ssf
-sequencingSourceFileChkSum: c37b8872f042de2679900b526304a397
+sequencingSourceFileChkSum: eda5c72342ba1e2cf5e945363e991a94
 readmeFile: README.md
 changelogFile: CHANGELOG.md
