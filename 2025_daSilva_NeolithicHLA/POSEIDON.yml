@@ -1,0 +1,28 @@
+poseidonVersion: 2.7.1
+title: 2025_daSilva_NeolithicHLA
+description: Admixture as a source for HLA variation in Neolithic European farming
+  communities
+contributor:
+- name: Thiseas C. Lamnidis
+  email: thiseas_christos_lamnidis@eva.mpg.de
+- name: Sandra Penske
+  email: sandra_penske@eva.mpg.de
+packageVersion: 0.2.7
+lastModified: 2026-01-19
+genotypeData:
+  format: PLINK
+  genoFile: 2025_daSilva_NeolithicHLA.bed
+  genoFileChkSum: 2055c0d0aaf2012c0cfa5ef0d1c3465d
+  snpFile: 2025_daSilva_NeolithicHLA.bim
+  snpFileChkSum: 433fa85a23f3123bade02348e4628b75
+  indFile: 2025_daSilva_NeolithicHLA.fam
+  indFileChkSum: 7c1ed8050869a116691dd15820f22c1c
+  snpSet: 1240K
+jannoFile: 2025_daSilva_NeolithicHLA.janno
+jannoFileChkSum: 29910a3526f63d3d8731236da72db6d8
+sequencingSourceFile: 2025_daSilva_NeolithicHLA.ssf
+sequencingSourceFileChkSum: eda5c72342ba1e2cf5e945363e991a94
+bibFile: 2025_daSilva_NeolithicHLA.bib
+bibFileChkSum: 2385e3fb9afd2ffdaba40d4ff6d16042
+readmeFile: README.md
+changelogFile: CHANGELOG.md

@@ -1,0 +1,10 @@
+- V 0.2.7: Remove empty janno columns
+- V 0.2.6: Update Relation_To with suffix
+- V 0.2.5: Rename old Y_Haplogroup to Y_Haplogroup_ISOGG
+- V 0.2.4: Update Y_Haplogroup format. Add Y_Haplogroup_Note.
+- V 0.2.3: Add BibTex info and Publication column. Add package description.
+- V 0.2.2: Add contributor: Sandra Penske
+- V 0.2.1: Fill-in metadata from remote-janno: https://github.com/poseidon-framework/minotaur-archive/raw/refs/heads/2025_daSilva_NeolithicHLA/2025_daSilva_NeolithicHLA/provided_janno.janno
+- V 0.2.0: Rearrange Poseidon_IDs alphabetically.
+- V 0.1.2: Automatic update of janno file from Minotaur processing.
+- V 0.1.1: Added self as contributor to package.
