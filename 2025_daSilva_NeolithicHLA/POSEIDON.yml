@@ -7,7 +7,7 @@ contributor:
   email: thiseas_christos_lamnidis@eva.mpg.de
 - name: Sandra Penske
   email: sandra_penske@eva.mpg.de
-packageVersion: 0.2.4
+packageVersion: 0.2.5
 lastModified: 2026-01-19
 genotypeData:
   format: PLINK
@@ -19,7 +19,7 @@ genotypeData:
   indFileChkSum: 7c1ed8050869a116691dd15820f22c1c
   snpSet: 1240K
 jannoFile: 2025_daSilva_NeolithicHLA.janno
-jannoFileChkSum: a0846d97db5e2e38efe52ec1225bc6a3
+jannoFileChkSum: 7415de350ed8f2efd1a01dd0077c972c
 sequencingSourceFile: 2025_daSilva_NeolithicHLA.ssf
 sequencingSourceFileChkSum: eda5c72342ba1e2cf5e945363e991a94
 bibFile: 2025_daSilva_NeolithicHLA.bib
