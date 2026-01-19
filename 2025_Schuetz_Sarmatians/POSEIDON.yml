@@ -7,7 +7,7 @@ contributor:
   email: thiseas_christos_lamnidis@eva.mpg.de
 - name: Luca Traverso
   email: luca_traverso@eva.mpg.de
-packageVersion: 0.2.3
+packageVersion: 0.2.4
 lastModified: 2026-01-19
 genotypeData:
   format: PLINK
@@ -19,7 +19,7 @@ genotypeData:
   indFileChkSum: 4d8a5d3132f8f811fb57a5fa90a3f976
   snpSet: 1240K
 jannoFile: 2025_Schuetz_Sarmatians.janno
-jannoFileChkSum: 98dc17df9a8395619eaeb06eb52085e3
+jannoFileChkSum: cf8616045af78192e6d3c9c2d9f4a22e
 sequencingSourceFile: 2025_Schuetz_Sarmatians.ssf
 sequencingSourceFileChkSum: 5a2c93079de483bf0a3d32d02a106f08
 bibFile: 2025_Schuetz_Sarmatians.bib
