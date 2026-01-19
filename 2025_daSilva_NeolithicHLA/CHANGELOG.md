@@ -1,3 +1,4 @@
+- V 0.2.6: Update Relation_To with suffix
 - V 0.2.5: Rename old Y_Haplogroup to Y_Haplogroup_ISOGG
 - V 0.2.4: Update Y_Haplogroup format. Add Y_Haplogroup_Note.
 - V 0.2.3: Add BibTex info and Publication column. Add package description.
