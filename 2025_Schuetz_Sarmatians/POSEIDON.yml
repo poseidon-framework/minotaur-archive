@@ -7,7 +7,9 @@ contributor:
   email: thiseas_christos_lamnidis@eva.mpg.de
 - name: Luca Traverso
   email: luca_traverso@eva.mpg.de
-packageVersion: 0.2.6
+- name: Konstantinos Siozios
+  email: konstantinos_siozios@eva.mpg.de
+packageVersion: 0.2.7
 lastModified: 2026-01-20
 genotypeData:
   format: PLINK
