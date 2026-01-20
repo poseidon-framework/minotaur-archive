@@ -1,3 +1,4 @@
+- V 0.2.5: Update dating info based on C14 data provided by authors.
 - V 0.2.4: Rename Y_Haplogroup to Y_Haplogroup_ISOGG. Update Relation_To to include suffix.
 - V 0.2.3: Add contributor: Luca Traverso
 - V 0.2.2: Add BibTex info and Publication column. Add package description.
