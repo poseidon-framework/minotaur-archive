@@ -1,3 +1,4 @@
+- V 0.2.1: Fill-in metadata from remote-janno: https://github.com/poseidon-framework/minotaur-archive/raw/d5fa648065ae1c0d1f90dbcc57d785f9c355209a/2021_Delser_ShotgunGenomes/provided_janno.janno. Add @tlkhi to contributors.
 - V 0.2.0: Rearrange Poseidon_IDs alphabetically.
 - V 0.1.2: Automatic update of janno file from Minotaur processing.
 - V 0.1.1: Added self as contributor to package.

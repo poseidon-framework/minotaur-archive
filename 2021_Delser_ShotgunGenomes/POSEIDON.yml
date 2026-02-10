@@ -4,7 +4,9 @@ description: Empty package template. Please add a description
 contributor:
 - name: Thiseas C. Lamnidis
   email: thiseas_christos_lamnidis@eva.mpg.de
-packageVersion: 0.2.0
+- name: tlkhi
+  email: ''
+packageVersion: 0.2.1
 lastModified: 2026-02-10
 genotypeData:
   format: PLINK
@@ -13,10 +15,10 @@ genotypeData:
   snpFile: 2021_Delser_ShotgunGenomes.bim
   snpFileChkSum: 433fa85a23f3123bade02348e4628b75
   indFile: 2021_Delser_ShotgunGenomes.fam
-  indFileChkSum: e110aff1f13eebdb60ee75a588d990e7
+  indFileChkSum: d860d7935742c6a358b7592ded3f39c0
   snpSet: 1240K
 jannoFile: 2021_Delser_ShotgunGenomes.janno
-jannoFileChkSum: 3026c4ca9b5156f1f47f9e5b342eb1ea
+jannoFileChkSum: 8a679e6c77938fa6fe3869268844409b
 sequencingSourceFile: 2021_Delser_ShotgunGenomes.ssf
 sequencingSourceFileChkSum: 4793258c0aacf3c6b9d3cef403c931bf
 readmeFile: README.md
