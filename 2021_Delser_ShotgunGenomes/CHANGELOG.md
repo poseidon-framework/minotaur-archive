@@ -1,3 +1,4 @@
+- V 0.2.3: Rename Y_Haplogroup column to Y_Haplogroup_ISOGG. Removed empty janno columns.
 - V 0.2.2: Add BibTex info. Add description.
 - V 0.2.1: Fill-in metadata from remote-janno: https://github.com/poseidon-framework/minotaur-archive/raw/d5fa648065ae1c0d1f90dbcc57d785f9c355209a/2021_Delser_ShotgunGenomes/provided_janno.janno. Add @tlkhi to contributors.
 - V 0.2.0: Rearrange Poseidon_IDs alphabetically.
