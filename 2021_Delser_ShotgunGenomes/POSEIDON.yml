@@ -6,7 +6,7 @@ contributor:
   email: thiseas_christos_lamnidis@eva.mpg.de
 - name: tlkhi
   email: ''
-packageVersion: 0.2.3
+packageVersion: 1.0.0
 lastModified: 2026-02-10
 genotypeData:
   format: PLINK
