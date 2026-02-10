@@ -1,0 +1,23 @@
+poseidonVersion: 2.7.1
+title: 2021_Delser_ShotgunGenomes
+description: Empty package template. Please add a description
+contributor:
+- name: Thiseas C. Lamnidis
+  email: thiseas_christos_lamnidis@eva.mpg.de
+packageVersion: 0.2.0
+lastModified: 2026-02-10
+genotypeData:
+  format: PLINK
+  genoFile: 2021_Delser_ShotgunGenomes.bed
+  genoFileChkSum: 178753033ddfdb1c429e6a71e71cded0
+  snpFile: 2021_Delser_ShotgunGenomes.bim
+  snpFileChkSum: 433fa85a23f3123bade02348e4628b75
+  indFile: 2021_Delser_ShotgunGenomes.fam
+  indFileChkSum: e110aff1f13eebdb60ee75a588d990e7
+  snpSet: 1240K
+jannoFile: 2021_Delser_ShotgunGenomes.janno
+jannoFileChkSum: 3026c4ca9b5156f1f47f9e5b342eb1ea
+sequencingSourceFile: 2021_Delser_ShotgunGenomes.ssf
+sequencingSourceFileChkSum: 4793258c0aacf3c6b9d3cef403c931bf
+readmeFile: README.md
+changelogFile: CHANGELOG.md
