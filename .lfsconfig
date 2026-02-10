@@ -1,0 +1,3 @@
+[lfs]
+	url = https://lfs.poseidon-adna.org/poseidon-framework/minotaur-archive
+	pushurl = git@github.com:poseidon-framework/minotaur-archive.git
