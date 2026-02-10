@@ -1,12 +1,12 @@
 poseidonVersion: 2.7.1
 title: 2021_Delser_ShotgunGenomes
-description: Empty package template. Please add a description
+description: A curated dataset of modern and ancient high-coverage shotgun human genomes
 contributor:
 - name: Thiseas C. Lamnidis
   email: thiseas_christos_lamnidis@eva.mpg.de
 - name: tlkhi
   email: ''
-packageVersion: 0.2.1
+packageVersion: 0.2.2
 lastModified: 2026-02-10
 genotypeData:
   format: PLINK
@@ -21,5 +21,7 @@ jannoFile: 2021_Delser_ShotgunGenomes.janno
 jannoFileChkSum: 8a679e6c77938fa6fe3869268844409b
 sequencingSourceFile: 2021_Delser_ShotgunGenomes.ssf
 sequencingSourceFileChkSum: 4793258c0aacf3c6b9d3cef403c931bf
+bibFile: 2021_Delser_ShotgunGenomes.bib
+bibFileChkSum: 9167d546b37eb9b0dfc90a2f8a32a311
 readmeFile: README.md
 changelogFile: CHANGELOG.md
