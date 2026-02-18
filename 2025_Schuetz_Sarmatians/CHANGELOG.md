@@ -1,0 +1,10 @@
+- V 0.2.7: Add KSiozios as contributor
+- V 0.2.6: Remove empty janno columns
+- V 0.2.5: Update dating info based on C14 data provided by authors.
+- V 0.2.4: Rename Y_Haplogroup to Y_Haplogroup_ISOGG. Update Relation_To to include suffix.
+- V 0.2.3: Add contributor: Luca Traverso
+- V 0.2.2: Add BibTex info and Publication column. Add package description.
+- V 0.2.1: Fill-in metadata from provided-janno: https://github.com/poseidon-framework/minotaur-recipes/blob/9b1f4590f58e45e920bb4a881e037bfb251f979f/packages/2025_Schuetz_Sarmatians/2025_Schuetz_Sarmatians.janno
+- V 0.2.0: Rearrange Poseidon_IDs alphabetically.
+- V 0.1.2: Automatic update of janno file from Minotaur processing.
+- V 0.1.1: Added self as contributor to package.
