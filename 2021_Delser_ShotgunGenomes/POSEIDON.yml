@@ -1,0 +1,27 @@
+poseidonVersion: 2.7.1
+title: 2021_Delser_ShotgunGenomes
+description: A curated dataset of modern and ancient high-coverage shotgun human genomes
+contributor:
+- name: Thiseas C. Lamnidis
+  email: thiseas_christos_lamnidis@eva.mpg.de
+- name: tlkhi
+  email: jodyegrim@gmail.com
+packageVersion: 1.0.0
+lastModified: 2026-02-10
+genotypeData:
+  format: PLINK
+  genoFile: 2021_Delser_ShotgunGenomes.bed
+  genoFileChkSum: 178753033ddfdb1c429e6a71e71cded0
+  snpFile: 2021_Delser_ShotgunGenomes.bim
+  snpFileChkSum: 433fa85a23f3123bade02348e4628b75
+  indFile: 2021_Delser_ShotgunGenomes.fam
+  indFileChkSum: d860d7935742c6a358b7592ded3f39c0
+  snpSet: 1240K
+jannoFile: 2021_Delser_ShotgunGenomes.janno
+jannoFileChkSum: 57fa41c15f038a52d1ac7c65c39db22b
+sequencingSourceFile: 2021_Delser_ShotgunGenomes.ssf
+sequencingSourceFileChkSum: 4793258c0aacf3c6b9d3cef403c931bf
+bibFile: 2021_Delser_ShotgunGenomes.bib
+bibFileChkSum: 9167d546b37eb9b0dfc90a2f8a32a311
+readmeFile: README.md
+changelogFile: CHANGELOG.md
