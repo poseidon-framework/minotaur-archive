@@ -1,4 +1,4 @@
-# 2024_Simoes_PNAS
+# 2024_Simoes_AtlanticFrance
 This package was created on 2025-08-12 and was processed using the following versions:
  - nf-core/eager version:  2.5.1
  - Minotaur config version: 0.5.0
@@ -13,7 +13,7 @@ This package was created on 2025-08-12 and was processed using the following ver
 ## trident version: 1.6.2.1
 remote_janno_url="https://github.com/poseidon-framework/minotaur-archive/raw/e14b2c44e2a2465884b89beda88b30451634b200/2024_Simoes_PNAS/provided_janno.janno"
 source_janno="remote_janno.janno"
-package_name="2024_Simoes_PNAS"
+package_name="2024_Simoes_AtlanticFrance"
 target_janno="${package_name}/${package_name}.janno"
 contributors="[tlkhi]()"
 
