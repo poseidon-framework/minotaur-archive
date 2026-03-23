@@ -1,0 +1,30 @@
+poseidonVersion: 2.7.1
+title: 2025_Schuetz_Sarmatians
+description: 'Unveiling the origins and genetic makeup of the ''forgotten people'':
+  A study of the Sarmatian-period population in the Carpathian Basin'
+contributor:
+- name: Thiseas C. Lamnidis
+  email: thiseas_christos_lamnidis@eva.mpg.de
+- name: Luca Traverso
+  email: luca_traverso@eva.mpg.de
+- name: Konstantinos Siozios
+  email: konstantinos_siozios@eva.mpg.de
+packageVersion: 0.2.7
+lastModified: 2026-01-20
+genotypeData:
+  format: PLINK
+  genoFile: 2025_Schuetz_Sarmatians.bed
+  genoFileChkSum: ce1c65bac70f888dafb1826ad6727e5e
+  snpFile: 2025_Schuetz_Sarmatians.bim
+  snpFileChkSum: 433fa85a23f3123bade02348e4628b75
+  indFile: 2025_Schuetz_Sarmatians.fam
+  indFileChkSum: 4d8a5d3132f8f811fb57a5fa90a3f976
+  snpSet: 1240K
+jannoFile: 2025_Schuetz_Sarmatians.janno
+jannoFileChkSum: 8a44e237e75512edc126baf2657214ca
+sequencingSourceFile: 2025_Schuetz_Sarmatians.ssf
+sequencingSourceFileChkSum: 5a2c93079de483bf0a3d32d02a106f08
+bibFile: 2025_Schuetz_Sarmatians.bib
+bibFileChkSum: 1fe09b0a8ae6316ecb055d0cf2711503
+readmeFile: README.md
+changelogFile: CHANGELOG.md
