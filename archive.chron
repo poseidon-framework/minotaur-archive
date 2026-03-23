@@ -1,6 +1,6 @@
 title: Poseidon minotaur-archive chronicle
-chronicleVersion: 1.22.0
-lastModified: 2026-02-18
+chronicleVersion: 1.23.0
+lastModified: 2026-03-23
 packages:
 - title: 2020_Bongers_SouthPeru
   version: 1.0.0
@@ -34,6 +34,10 @@ packages:
   version: 1.0.1
   commit: 7b598465b8637841f554b84cd1fc43af84a329b1
   path: 2021_CarlhoffNature
+- title: 2021_Delser_ShotgunGenomes
+  version: 1.0.0
+  commit: 49ece699833fb52d2ca5c061f244798c9a770e4e
+  path: 2021_Delser_ShotgunGenomes
 - title: 2021_Papac_CentralEurope
   version: 0.2.9
   commit: ef96c4182d4b998e03c83e472a398a729322625e
