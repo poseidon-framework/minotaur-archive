@@ -7,8 +7,8 @@ contributor:
   email: thiseas_christos_lamnidis@eva.mpg.de
 - name: tlkhi
   email: ''
-packageVersion: 0.2.5
-lastModified: 2025-08-12
+packageVersion: 1.0.0
+lastModified: 2026-03-23
 genotypeData:
   format: PLINK
   genoFile: 2024_Simoes_AtlanticFrance.bed

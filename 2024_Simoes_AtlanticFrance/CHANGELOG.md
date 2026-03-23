@@ -1,3 +1,4 @@
+- V 1.0.0: Bump version for release
 - V 0.2.5: Reformat Y_Haplogroup info.
 - V 0.2.4: Remove empty janno columns
 - V 0.2.3: Fix broken character in janno
