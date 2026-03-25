@@ -1,3 +1,4 @@
+- V 1.0.0: Bump version for release
 - V 0.2.7: Remove empty janno columns
 - V 0.2.6: Update Relation_To with suffix
 - V 0.2.5: Rename old Y_Haplogroup to Y_Haplogroup_ISOGG

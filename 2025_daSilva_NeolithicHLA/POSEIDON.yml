@@ -7,8 +7,8 @@ contributor:
   email: thiseas_christos_lamnidis@eva.mpg.de
 - name: Sandra Penske
   email: sandra_penske@eva.mpg.de
-packageVersion: 0.2.7
-lastModified: 2026-01-19
+packageVersion: 1.0.0
+lastModified: 2026-03-25
 genotypeData:
   format: PLINK
   genoFile: 2025_daSilva_NeolithicHLA.bed
